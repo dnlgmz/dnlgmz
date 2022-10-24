@@ -35,5 +35,16 @@ Current Fav Artists:
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 	<h2>Skills &#x1F468;&#x200D;&#x1F4BB;</h2>
+
+- Statistical analysis and computing
+- Machine Learning
+- Deep Learning
+- Processing large data sets
+- Data Visualization
+- Data Wrangling
+- Mathematics
+- Programming
+- Big Data
+	
 </html>
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=djg-s)](https://github.com/djg-s/github-readme-stats)
+
