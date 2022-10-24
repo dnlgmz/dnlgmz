@@ -26,12 +26,12 @@ Current Fav Artists:
 	<head>
 	</head>
 <p align="center">
-	<a id="footer"><img src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/hello_there.gif?raw=true" width="75%" height="auto"/></a>
+	<a id="footer"><img src="https://github.com/djg-s/djg-s.github.io/blob/main/images_for_readme/hello_there.gif?raw=true" width="75%" height="auto"/></a>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-roiz/"><img width="36px" alt="Linkedln" title="Linkedln" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/linkedln_logo_retry.png?raw=true" /></a>
+  <a href="https://www.linkedin.com/in/daniel-gomez-santos/"><img width="36px" alt="Linkedln" title="Linkedln" src="https://github.com/djg-s/djg-s.github.io/blob/main/images_for_readme/linkedln_logo_retry.png?raw=true" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/samuelroiz"><img width="36px" alt="GitHub Homepage" title="GitHub Homepage" src="https://github.com/samuelroiz/samuelroiz.github.io/blob/main/images_for_readme/github_icon_blue.png?raw=true"/></a>
+  <a href="https://github.com/djg-s"><img width="36px" alt="GitHub Homepage" title="GitHub Homepage" src="https://github.com/djg-s/djg-s.github.io/blob/main/images_for_readme/github_icon_blue.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 	<h2>  Skills &#x1F468;&#x200D;&#x1F4BB; </h2>
