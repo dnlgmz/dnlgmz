@@ -40,7 +40,10 @@ Current Fav Artists:
 </p>
 	<h2>Skills &#x1F468;&#x200D;&#x1F4BB;</h2>
 
-- PCR, Sequencing, & Fragment Analysis
+- PCR (qPCR), Sequencing (NGS), & Fragment Analysis
+- Cell culture (co-cultures): Mammalian (primary), prokaryotes and yeast 
+- Tissue Experiments (in situ immunohistochemistry, in situ hybridization)
+- Surgical Methods in Whole Animal to ex vivo organs
 - Bioinformatics
 - Computational Cancer Genomics 
 - Statistical analysis and computing
