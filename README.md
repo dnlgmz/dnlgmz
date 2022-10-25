@@ -14,11 +14,15 @@ Interests:
 - Go Programming, Python, and R 
 - Spatial Omics 
 - Biophysics
+- Molecular Cell Biology
 
 Current Fav Artists:
 - Dali
 - Sarasate
+- 40 fingers
+- SOJA
 - Marley Bros.
+- Matt Corman
 
 #### Twitter: [@djsgomezr](https://twitter.com/djsgomezr) 
 
@@ -36,8 +40,11 @@ Current Fav Artists:
 </p>
 	<h2>Skills &#x1F468;&#x200D;&#x1F4BB;</h2>
 
+- PCR, Sequencing, & Fragment Analysis
+- Bioinformatics
+- Computational Cancer Genomics 
 - Statistical analysis and computing
-- Machine Learning
+- Machine Learning & AI
 - Deep Learning
 - Processing large data sets
 - Data Visualization
