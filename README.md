@@ -3,17 +3,20 @@
 - 🔭 I’m currently working on AI/Machine Learning and Surgical Data Science
 - I actively contribute to the field of Structural Neurobiology (neuro/cancer viral immunology)
 - I am a Graduate Student at CSUEB :) (Structural Molecular Biology)
-- I am a Research Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
-- I am President and Data Scientist at Gomez SDS LLC @gomezsds
+- I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
+- I am President||CEO at Gomez SDS LLC @gomezsds
 
 Interests:
+- Next-generation Biotechnology
+- Molecular Structural Biology, Organelle Structural Biology
+- Biological cryogenic microscopy and tomography 
+- Cancer Immunotherapy: Biochemistry and Molecular Biophysics
+- Neuroimmunology (Immuno-Oncology)
+- Designing and Engineering Multiscale biological, synthetic, and molecular circuits
+- Spatial Omics (SG, ST, SP)
 - Surgical Data Science (AI, ML, DL)
 - Structural bioinformatics
-- Neuroimmunology (Immuno-Oncology)
-- Self-supervised Learning
-- Go Programming, Python, and R 
-- Spatial Omics 
-- Biophysics
+- Programming: Go, JS, Python, and R 
 - Molecular Cell Biology
 
 Current Fav Artists:
@@ -21,6 +24,7 @@ Current Fav Artists:
 - Sarasate
 - 40 fingers
 - SOJA
+- Flatbush Zombies
 - Marley Bros.
 - Matt Corman
 
