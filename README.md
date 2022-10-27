@@ -34,7 +34,7 @@ Current Fav Artists:
 	<head>
 	</head>
 <p align="center">
-	<a id="footer"><img src="https://github.com/djg-s/djg-s.github.io/blob/main/images_for_readme/dreams.gif?raw=true" width="75%" height="auto"/></a>
+	<a id="footer"><a src="https://github.com/djg-s/djg-s.github.io/blob/main/images_for_readme/dreams.gif?raw=true" width="75%" height="auto"/></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-gomez-santos/"><img width="36px" alt="Linkedln" title="Linkedln" src="https://github.com/djg-s/djg-s.github.io/blob/main/images_for_readme/linkedln_logo_retry.png?raw=true" /></a>
