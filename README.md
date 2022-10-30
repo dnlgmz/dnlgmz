@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on AI/Machine Learning and Surgical Data Science
 - I am CEO at Gomez SDS LLC @gomezsds
-- I actively contribute to the field of Structural Neurobiology (neuro/cancer viral immunology)
+- I actively research the field of Structural Neurobiology (neuro/cancer viral immunology)
 - I am a Graduate Student at CSUEB :) (Structural Molecular Biology)
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
