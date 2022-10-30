@@ -8,7 +8,7 @@
 
 
 Interests:
-- Next-generation Biotechnology
+- Next-generation Biotechnology and Modern Molecular Cell Biology
 - Annotating spatially resolved single-cell data by spatial cell learning
 - Develop analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
 - Spatial analysis of tissue architecture & cellular niches
@@ -23,7 +23,6 @@ Interests:
 - Surgical Data Science (AI, ML, DL)
 - Structural bioinformatics
 - Programming: Go, Python, and R 
-- Molecular Cell Biology
 
 Current Fav Artists:
 - Dali
