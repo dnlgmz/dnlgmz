@@ -1,22 +1,28 @@
 ### Hello ✨  I am Daniel Gomez!
 
 - 🔭 I’m currently working on AI/Machine Learning and Surgical Data Science
+- I am CEO at Gomez SDS LLC @gomezsds
 - I actively contribute to the field of Structural Neurobiology (neuro/cancer viral immunology)
 - I am a Graduate Student at CSUEB :) (Structural Molecular Biology)
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
-- I am President || CEO at Gomez SDS LLC @gomezsds
+
 
 Interests:
 - Next-generation Biotechnology
-- Molecular Structural Biology, Organelle Structural Biology
+- Annotating spatially resolved single-cell data by spatial cell learning
+- Develop analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
+- Spatial analysis of tissue architecture & cellular niches
+- Multiplex imaging
+- Molecular Structural Biology - Organelle Structural Biology
 - Biological cryogenic microscopy and tomography 
+- Deep generative molecular design in drug discovery (hybrid data models, multimodal generative models)
+- Neuroimmunology, Tumors, and Immune Microenvironments
 - Cancer Immunotherapy: Biochemistry and Molecular Biophysics
-- Neuroimmunology (Immuno-Oncology)
 - Designing and Engineering Multiscale biological, synthetic, and molecular circuits
 - Spatial Omics (SG, ST, SP)
 - Surgical Data Science (AI, ML, DL)
 - Structural bioinformatics
-- Programming: Go, JS, Python, and R 
+- Programming: Go, Python, and R 
 - Molecular Cell Biology
 
 Current Fav Artists:
@@ -24,11 +30,13 @@ Current Fav Artists:
 - Sarasate
 - 40 fingers
 - SOJA
-- Flatbush Zombies
 - Marley Bros.
 - Matt Corman
+- Alex Serra
+- Flatbush Zombies
 
-#### Twitter: [@djsgomezr](https://twitter.com/djsgomezr) 
+
+#### Twitter: [@d_gomez_s](https://twitter.com/d_gomez_s) 
 
 <html>
 	<head>
