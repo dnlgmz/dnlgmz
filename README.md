@@ -1,10 +1,10 @@
 ### Hello ✨  I am Daniel Gomez!
 
 - 🔭 I’m currently pioneering organelle structural neuro/cancer viral immunology 
-- I work on AI/Machine Learning and Surgical Data Science
-- I am CEO at Gomez SDS LLC @gomezsds
-- I actively research the field of Structural Neurobiology (neuro/cancer viral immunology)
-- I am a Graduate Student at CSUEB :) (Structural Molecular Biology)
+- I work on AI/Machine Learning, VR/AR, and Surgical Data Science (SDS)
+- I am CEO at Gomez SDS (GSDS) LLC @gomezsds
+- I actively research the field of Structural Neurobiology (neuro/cancer viral immunology) and Structural Epigenetics
+- I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB :), Bioengineering (BIOE) at Stanford Schools of Engineering and Medicine in the Department of Bioengineering, and at Stanford Synchrotron Radiation Lightsource (SSRL) 
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 
@@ -17,24 +17,27 @@ Interests:
 - Molecular Structural Biology - Organelle Structural Biology
 - Biological cryogenic microscopy and tomography 
 - Deep generative molecular design in drug discovery (hybrid data models, multimodal generative models)
-- Neuroimmunology, Tumors, and Immune Microenvironments
+- Neuroimmunology and Tumors Immune Microenvironments (TiME)
 - Cancer Immunotherapy: Biochemistry and Molecular Biophysics
-- Designing and Engineering Multiscale biological, synthetic, and molecular circuits
+- Neuroengineering, Immune Engineering, Virus Engineering and Applications
+- Designing and engineering multiscale biological, synthetic, and molecular circuits
 - Spatial Omics (SG, ST, SP)
 - Surgical Data Science (AI, ML, DL)
 - Structural bioinformatics
-- Programming: Go, Python, and R 
+- Programming: Go, Python, R, and Cairo 
 
 Current Fav Artists:
 - Dali
 - Sarasate
 - 40 fingers
-- SOJA
-- Marley Bros.
-- Matt Corman
+- Khalid
+- DDG
+- SAINt JHN
+- Pop Smoke
 - Alex Serra
 - Flatbush Zombies
 - Joyner Lucas
+
 
 
 #### Twitter: [@d_gomez_s](https://twitter.com/d_gomez_s) 
