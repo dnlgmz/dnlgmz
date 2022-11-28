@@ -1,6 +1,7 @@
 ### Hello ✨  I am Daniel Gomez!
 
-- 🔭 I’m currently working on AI/Machine Learning and Surgical Data Science
+- 🔭 I’m currently pioneering organelle structural neuro/cancer viral immunology 
+- I work on AI/Machine Learning and Surgical Data Science
 - I am CEO at Gomez SDS LLC @gomezsds
 - I actively research the field of Structural Neurobiology (neuro/cancer viral immunology)
 - I am a Graduate Student at CSUEB :) (Structural Molecular Biology)
@@ -33,6 +34,7 @@ Current Fav Artists:
 - Matt Corman
 - Alex Serra
 - Flatbush Zombies
+- Joyner Lucas
 
 
 #### Twitter: [@d_gomez_s](https://twitter.com/d_gomez_s) 
