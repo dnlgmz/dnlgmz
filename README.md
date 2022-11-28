@@ -11,9 +11,9 @@
 Interests:
 - Next-generation Biotechnology and Modern Molecular Cell Biology
 - Annotating spatially resolved single-cell data by spatial cell learning
-- Develop analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
+- Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
 - Spatial analysis of tissue architecture & cellular niches
-- Multiplex imaging
+- Multiplex imaging through multi-omics 
 - Molecular Structural Biology - Organelle Structural Biology
 - Biological cryogenic microscopy and tomography 
 - Deep generative molecular design in drug discovery (hybrid data models, multimodal generative models)
@@ -37,7 +37,6 @@ Current Fav Artists:
 - Alex Serra
 - Flatbush Zombies
 - Joyner Lucas
-
 
 
 #### Twitter: [@d_gomez_s](https://twitter.com/d_gomez_s) 
