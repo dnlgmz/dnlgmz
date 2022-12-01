@@ -24,7 +24,7 @@ Interests:
 - Spatial Omics (SG, ST, SP)
 - Surgical Data Science (AI, ML, DL)
 - Structural bioinformatics
-- Programming: Go, Python, R, and Cairo 
+- Programming: Go, Python, R, Cairo, and Motoko 
 
 Current Fav Artists:
 - Dali
