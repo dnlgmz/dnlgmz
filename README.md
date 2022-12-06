@@ -47,7 +47,6 @@ Current Fav Artists:
 
 <html>
 	<head>
-	</head>
 <p align="center">
 	<a id="footer"><a src="https://github.com/djg-s/djg-s.github.io/code/images/luke-skywalker-jedi.gif?raw=true" width="75%" height="auto"/></a>
 </p>
@@ -57,6 +56,7 @@ Current Fav Artists:
   <a href="https://github.com/djg-s"><img width="36px" alt="GitHub Homepage" title="GitHub Homepage" src="https://github.com/djg-s/djg-s.github.io/code/images/GitHub-Mark.png?raw=true"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+	</head>
 	<h2>Skills &#x1F468;&#x200D;&#x1F4BB;</h2>
 
 - PCR (qPCR), Sequencing (NGS), & Fragment Analysis
