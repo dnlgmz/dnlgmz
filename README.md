@@ -43,7 +43,7 @@ Current Fav Artists:
 - Joyner Lucas
 
 
-#### Twitter: [@d_gomez_s](https://twitter.com/d_gomez_s) 
+#### Twitter: [@dgleaf](https://twitter.com/dgleaf) 
 
 <html>
 	<head>
