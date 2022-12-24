@@ -1,10 +1,10 @@
 ### Hello ✨  I am Daniel Gomez!
 
 - 🔭 I’m currently pioneering organelle structural neuro/cancer viral immunology 
-- I work on AI/Machine Learning, VR/AR, and Surgical Data Science (SDS)
-- I am the CEO at Gome Bio @gomebio
-- I actively research the field of Structural Neurobiology (neuro/cancer viral immunology) and Structural Epigenetics
-- I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB :), and Stanford Bioengineering Schools of Engineering and Medicine, and my research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
+- I work on biotech, immuno(bio)engineering, CAD, AI/Machine Learning
+- I am the CEO at Gome Bio Inc, @gomebio
+- I actively research the field of Structural Biology, Neuroimmunology, & MSSE
+- I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB :), and Bioengineering student at Stanford Bioengineering Schools of Engineering and Medicine, and my research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
@@ -75,6 +75,8 @@ Current Fav Artists:
 - Mathematics
 - Programming
 - Big Data
+- Molecular Science
+- Software Engineering
 	
 </html>
 
