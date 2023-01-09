@@ -1,19 +1,30 @@
 ### Hello ✨  I am Daniel Gomez!
 
-- 🔭 I’m currently pioneering organelle structural neuro/cancer viral immunology 
-- I work on biotech, immuno(bio)engineering, CAD, AI/Machine Learning
-- I am the CEO at Gome Bio Inc, @gomebio
-- I actively research the field of Structural Biology, Neuroimmunology, & MSSE
-- I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB :), and Bioengineering student at Stanford Bioengineering Schools of Engineering and Medicine, and my research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
+- 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through computational molecular science (CMS) directed at Nanomedicine (Molecular Nanotechnology) 
+- I work on next-gen biotech, immuno(bio)engineering, structural biology, CAD, CMS, & AI/ML/DL/RL
+
+- I am the Fonuder & CSO at Gome Bio LLC, @gomebio (gome.bio)
+"Teaching the brain and immune system to fight disease together" 
+Individualized Neuro-Immune Medicine. 
+
+- I am the Founder & President at Gomera Health Inc.
+Advanced DNA Chemistry, Nanomedicine, and AI for Autonomous Molecular Design
+
+- I am the Founder & Board Chair at Gome Writings (@gomewritings)
+"Writing Genomes" (nonprofit)
+
+- I actively research the field of Structural Biology, Neuroimmunology, & MSSE (CMS)
+- I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB :), and Bioengineering student at Stanford Bioengineering Schools of Engineering and Medicine, and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
-- Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, DWI, DTI, PWI, HARDI, Q-balls)
+- Molecular neuroimmune-pathology
+- Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, DTI, PWI, MEG, HARDI, Q-balls)
 - Morphology and imaging (histology, live-cell, in vivo microscopy)
 - Metabolomics (plasma, serum, tissue extracts)
 - Next-generation Biotechnology and Modern Molecular Cell Biology
 - Mouse phenotyping by in vivo phenotyping (IVP)
-- Single-cell biology 
+- Single-cell biology (scRNAseq, snRNAseq, etc)
 - Annotating spatially resolved single-cell data by spatial cell learning
 - Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
 - Spatial analysis of tissue architecture & cellular niches
@@ -31,15 +42,21 @@ Interests:
 - Programming: Go, Python, R, Cairo, and Motoko 
 
 Current Fav Artists:
+- Tchaikovsky
 - Dali
+- Mozart
 - Sarasate
+- Saint-Saëns
+- Brahmms
+- Paganini
+- Wieniawski
+- Ray Gomez
+- Rodrigo y Gabriela
 - 40 fingers
 - Khalid
 - DDG
 - SAINt JHN
-- Pop Smoke
 - Alex Serra
-- Flatbush Zombies
 - Joyner Lucas
 
 
@@ -59,16 +76,21 @@ Current Fav Artists:
 	</head>
 	<h2>Skills &#x1F468;&#x200D;&#x1F4BB;</h2>
 
+- Basic Lab & Safety (GMP, BBP, IRB)	
+- Phelbotomy (winged needle collection)
+- Cell viability assays
+- Funcational assay design
+- DNA/RNA extraction
 - PCR (qPCR), Sequencing (NGS), & Fragment Analysis
+- Gel Electrophoresis, Tapestation, Sonication
 - Cell culture (co-cultures): Mammalian (primary), prokaryotes and yeast 
 - Tissue (in situ) experiments (immunohistochemistry, in situ hybridization)
 - Surgical methods in whole animal (in toto) to organ isolation (ex vivo)
-- Phelbotomy (winged needle collection)
 - Bioinformatics (in silico)
 - Computational Cancer Genomics 
 - Statistical analysis and computing
 - Machine Learning & AI
-- Deep Learning
+- Deep Learning, Reinforcement Learning
 - Processing large data sets
 - Data Visualization
 - Data Wrangling
@@ -77,6 +99,23 @@ Current Fav Artists:
 - Big Data
 - Molecular Science
 - Software Engineering
+- Cancer Biology
+- Immunology
+- Neurology
+- Cardiology
+- Protective Laboratory design
+
+	
+<h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
+- Immunophysics
+- Immunoengineering
+- Molecular Bioengineering, Nanotechnology, Nanomedicine
+- Software Engineering for Scientific Computing
+- Computational Quantum Chemistry
+- Applied Parralel Computing
+- High-Performance Computing
+- Quantum Immunology, Quantum Vaccinomics, Quantum Technologies
+- Individualized Medicine
 	
 </html>
 
