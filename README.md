@@ -7,11 +7,11 @@
 "Teaching the brain and immune system to fight disease together"  <br>
 Individualized Neuro-Immune Medicine. 
 
-- I am the Founder & President at Gomera Health Inc.
+- I am the Founder & President at Gomera Health Inc. <br>
 Advanced DNA Chemistry, Nanomedicine, and AI for Autonomous Molecular Design
 
-- I am the Founder & Board Chair at Gome Writings (@gomewritings)
-"Writing Genomes" (nonprofit)
+- I am the Founder & Board Chair at Gome Writings (nonprofit) <br>
+"Writing Genomes" 
 
 - I actively research the field of Structural Biology, Neuroimmunology, & MSSE (CMS)
 - I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB :), and Bioengineering student at Stanford Bioengineering Schools of Engineering and Medicine, and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
