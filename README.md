@@ -80,7 +80,7 @@ Current Fav Artists:
 	<h2>Skills &#x1F468;&#x200D;&#x1F4BB;</h2>
 
 - Basic Lab & Safety (GMP, BBP, IRB)	
-- Phelbotomy (winged needle collection)
+- Phlebotomy (winged needle collection)
 - Cell viability assays
 - Funcational assay design
 - DNA/RNA extraction
