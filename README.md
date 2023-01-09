@@ -13,6 +13,9 @@ Advanced DNA Chemistry, Nanomedicine, and AI for Autonomous Molecular Design
 - I am the Founder & Board Chair at Gome Writings (nonprofit) <br>
 "Writing Genomes" 
 
+- I am an Academic Editor for <i> Cancers </i> MDPI journal <br>
+Special Issue: Neuro-oncology and neurotrauma
+
 - I actively research the field of Structural Biology, Neuropathology, & MSSE (CMS)
 - I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB :), and Bioengineering student at Stanford Bioengineering Schools of Engineering and Medicine, and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
