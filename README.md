@@ -3,8 +3,8 @@
 - 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through computational molecular science (CMS) directed at Nanomedicine (Molecular Nanotechnology) 
 - I work on next-gen biotech, immuno(bio)engineering, structural biology, CAD, CMS, & AI/ML/DL/RL
 
-- I am the Fonuder & CSO at Gome Bio LLC, @gomebio (gome.bio)
-"Teaching the brain and immune system to fight disease together" 
+- I am the Founder & CSO at Gome Bio LLC, @gomebio (gome.bio) <br> 
+"Teaching the brain and immune system to fight disease together"  <br>
 Individualized Neuro-Immune Medicine. 
 
 - I am the Founder & President at Gomera Health Inc.
