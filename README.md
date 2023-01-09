@@ -17,7 +17,7 @@ Advanced DNA Chemistry, Nanomedicine, and AI for Autonomous Molecular Design
 Special Issue: Neuro-oncology and neurotrauma
 
 - I actively research the field of Structural Biology, Neuropathology, & MSSE (CMS)
-- I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB :), and Bioengineering student at Stanford Bioengineering Schools of Engineering and Medicine, and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
+- I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB and Bioengineering student at Stanford Bioengineering Schools of Engineering and Medicine, and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
