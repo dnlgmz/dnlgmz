@@ -3,7 +3,9 @@
 - 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through computational molecular science (CMS) directed at Nanomedicine (Molecular Nanotechnology) 
 - I work on next-gen biotech, immuno(bio)engineering, structural biology, CAD, CMS, & AI/ML/DL/RL
 
-- I am the Founder & CSO at Gome Bio LLC, @gomebio (gome.bio) <br> 
+- I have launched CROs: 
+
+- I am the Founder & CEO at Gome Bio LLC, @gomebio (gome.bio) <br> 
 "Teaching the brain and immune system to fight disease together"  <br>
 Individualized Neuro-Immune Medicine. 
 
@@ -63,7 +65,7 @@ Current Fav Artists:
 - Joyner Lucas
 
 
-#### Twitter: [@dgleaf](https://twitter.com/dgleaf) 
+#### Twitter: [@djgplants](https://twitter.com/djgplants) 
 
 <html>
 	<head>
