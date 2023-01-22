@@ -9,7 +9,7 @@
 "Teaching the brain and immune system to fight disease together"  <br>
 Individualized Neuro-Immune Medicine. 
 
-- I am the Founder & President at Gomera Health Inc. <br>
+- I am the Founder & Director at Gomera Health Inc. <br>
 Advanced DNA Chemistry, Nanomedicine, and AI for Autonomous Molecular Design
 
 - I am the Founder & Board Chair at Gome Writings (nonprofit) <br>
