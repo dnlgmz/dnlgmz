@@ -119,6 +119,7 @@ Current Fav Artists:
 - Computational Quantum Chemistry
 - Applied Parralel Computing
 - High-Performance Computing
+- Quantum Immunology
 - Quantum Computing for Immunology and Virology, Quantum Vaccinomics, Quantum Technologies
 - Individualized Medicine
 	
