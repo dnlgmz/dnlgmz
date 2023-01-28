@@ -70,10 +70,9 @@ Current Fav Artists:
 
 
 #### Twitter: [@djgplants](https://twitter.com/djgplants) 
-#### GitHub: [@djg-s] (https://github.com/djg-s)
-#### LinkedIn: [dan-gomez-santos] (https://www.linkedin.com/in/daniel-gomez-santos/)
+#### LinkedIn: [/dan-gomez-santos](https://www.linkedin.com/in/dan-gomez-santos) 
 
-	<h2>Skills &#x1F468;&#x200D;&#x1F4BB;</h2>
+### Skills
 
 - Basic Lab & Safety (GMP, BBP, IRB)	
 - Phlebotomy (winged needle collection)
