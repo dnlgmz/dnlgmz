@@ -70,7 +70,7 @@ Current Fav Artists:
 
 
 #### Twitter: [@djgplants](https://twitter.com/djgplants) 
-#### LinkedIn: [/dan-gomez-santos](https://www.linkedin.com/in/dan-gomez-santos) 
+#### LinkedIn: [/in/dan-gomez-santos/](https://www.linkedin.com/in/dan-gomez-santos) 
 
 ### Skills
 
