@@ -1,5 +1,7 @@
 ### Hello ✨  I am Daniel Gomez!
 
+- I am a Neurosurgery Neurophyte 🧠🔪: 🤖🦾🎮🥢🤕🪡👨🏻‍⚕️🦴💉👩🏻‍⚕️ | ⚕️🏥🚑💉🩺🩹💊🏨👩🏻 ! I assist at @UFNeurosurgery and plan to optimize Surgical Data Science (SDS) and bolster neuroendovascular research! 
+
 - 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through computational molecular science (CMS) directed at Nanomedicine (Molecular Nanotechnology) 
 - I work on next-gen biotech, immuno(bio)engineering, structural biology, CAD, CMS, & AI/ML/DL/RL
 
@@ -12,7 +14,7 @@ Individualized Neuro-Immune Medicine.
 - I am the Founder & Director at Gomera Health Inc. <br>
 Advanced DNA Chemistry, Nanomedicine, and AI for Autonomous Molecular Design
 
-- I am the Founder & Board Chair at Gome Writings (nonprofit) <br>
+- I am the Founder & Board Chair at <a href=https://gomewritings.org>Gome Writings</a>(nonprofit) <br>
 "Writing Genomes" 
 
 - I am an Academic Editor for <i> Cancers </i> MDPI journal <br>
