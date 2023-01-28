@@ -4,7 +4,7 @@
 - I assist at @UFNeurosurgery and plan to optimize Surgical Data Science (SDS) and bolster neuroendovascular research! 
 
 - 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through structural biology and computational molecular science (CMS) directed at Nanomedicine (Molecular Nanotechnology) 
-- I work on next-gen biotech, immuno(bio)engineering, computational structural biology, CAD, CMS & AI/ML/DL/RL
+- I work on next-gen biotech, immuno(bio)engineering, computational structural biology, CAD, CMS & SE/AI/ML/DL/RL
 
 - I have launched several CROs: 
 
