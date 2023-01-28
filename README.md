@@ -2,29 +2,30 @@
 
 - I am a Neurosurgery Neurophyte 🧠🔪: 🤖🦾🎮🥢🤕🪡👨🏻‍⚕️🦴💉👩🏻‍⚕️ | ⚕️🏥🚑💉🩺🩹💊🏨👩🏻 ! I assist at @UFNeurosurgery and plan to optimize Surgical Data Science (SDS) and bolster neuroendovascular research! 
 
-- 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through computational molecular science (CMS) directed at Nanomedicine (Molecular Nanotechnology) 
-- I work on next-gen biotech, immuno(bio)engineering, structural biology, CAD, CMS, & AI/ML/DL/RL
+- 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through structural biology and computational molecular science (CMS) directed at Nanomedicine (Molecular Nanotechnology) 
+- I work on next-gen biotech, immuno(bio)engineering, computational structural biology, CAD, CMS & AI/ML/DL/RL
 
-- I have launched CROs: 
+- I have launched several CROs: 
 
-- I am the Founder & CEO at Gome Bio LLC, @gomebio (gome.bio) <br> 
+- I am the Founder & CEO at <a href=https://gome.bio>Gome Bio LLC</a>, @gomebio <br> 
 "Teaching the brain and immune system to fight disease together"  <br>
 Individualized Neuro-Immune Medicine. 
 
 - I am the Founder & Director at Gomera Health Inc. <br>
-Advanced DNA Chemistry, Nanomedicine, and AI for Autonomous Molecular Design
+Surgical Data Science, Advanced DNA Chemistry, Nanomedicine, and AI for Autonomous Molecular Design and Digitial Pathology
 
-- I am the Founder & Board Chair at <a href=https://gomewritings.org>Gome Writings</a>(nonprofit) <br>
+- I am the Founder & Board Chair at <a href=https://gomewritings.org>Gome Writings </a>(nonprofit) <br>
 "Writing Genomes" 
 
-- I am an Academic Editor for <i> Cancers </i> MDPI journal <br>
+- I am an Academic Editor for the MDPI journal <i> Cancers </i> <br>
 Special Issue: Neuro-oncology and neurotrauma
 
-- I actively research the field of Structural Biology, Neuropathology, & MSSE (CMS)
+- I actively research the field of Structural Biology, Neuropathology, Neuroendovascular Surgery (NES) & MSSE (CMS)
 - I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB and Bioengineering student at Stanford Bioengineering Schools of Engineering and Medicine, and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
+- Neuroendovascular research (SAH, aneurysms and vascular repair, bioengineered NES devices)
 - Molecular neuroimmune-pathology
 - Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, DTI, PWI, MEG, HARDI, Q-balls)
 - Morphology and imaging (histology, live-cell, in vivo microscopy)
@@ -68,19 +69,9 @@ Current Fav Artists:
 
 
 #### Twitter: [@djgplants](https://twitter.com/djgplants) 
+#### GitHub: [@djg-s] (https://github.com/djg-s)
+#### LinkedIn: [dan-gomez-santos] (https://www.linkedin.com/in/daniel-gomez-santos/)
 
-<html>
-	<head>
-<p align="center">
-	<a id="footer"><a src="https://github.com/djg-s/djg-s.github.io/code/images/luke-skywalker-jedi.gif?raw=true" width="75%" height="auto"/></a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-gomez-santos/"><img width="36px" alt="Linkedln" title="Linkedln" src="https://github.com/djg-s/djg-s.github.io/code/images/logo-linkedin-512.jpegg?raw=true" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/djg-s"><img width="36px" alt="GitHub Homepage" title="GitHub Homepage" src="https://github.com/djg-s/djg-s.github.io/code/images/GitHub-Mark.png?raw=true"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-	</head>
 	<h2>Skills &#x1F468;&#x200D;&#x1F4BB;</h2>
 
 - Basic Lab & Safety (GMP, BBP, IRB)	
@@ -114,6 +105,9 @@ Current Fav Artists:
 
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
+- Molecular Science and Software Engineering (MSSE)
+- Medical School
+- PhD training program
 - Immunophysics
 - Immunoengineering
 - Molecular Bioengineering, Nanotechnology, Nanomedicine
