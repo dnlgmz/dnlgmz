@@ -4,7 +4,7 @@
 - I am a research assistant at @UFNeurosurgery and will bolster my neuroendovascular research and sustain my interest in medical school! 
 
 - 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through structural biology and computational molecular science (CMS) directed at Deep Medicine.
--  
+
 - I work on next-gen biotech, immuno(bio)engineering, computational structural biology, CAD, CMS & SE/AI/ML/DL/RL
 
 - I have launched several CROs: 
