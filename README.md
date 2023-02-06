@@ -13,7 +13,7 @@
 "Teaching the brain and immune system to fight disease together"  <br>
 Individualized Neuro-Immune Medicine. 
 
-- I am the Founder & Director at Gomera Health Inc. <br>
+- I am the Founder & Director at <a href=https://gomera.io>Gomera Health Inc.</a><br>
 Structure and Computation for Immunoreagents, Diagnostics to Vaccines, Advanced DNA Chemistry, Deep Medicine, Surgical Data Science (SDS)
 and AI for Autonomous Molecular Design and Digitial Pathology
 
