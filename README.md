@@ -1,9 +1,10 @@
 ### Hello ✨  I am Daniel Gomez!
 
 - I am a Neurosurgery Neurophyte 🧠🔪: 🤖🦾🎮🥢🤕🪡👨🏻‍⚕️🦴💉👩🏻‍⚕️ | ⚕️🏥🚑💉🩺🩹💊🏨👩🏻 ! 
-- I assist at @UFNeurosurgery and plan to optimize Surgical Data Science (SDS) and bolster neuroendovascular research! 
+- I am a research assistant at @UFNeurosurgery and will bolster my neuroendovascular research and sustain my interest in medical school! 
 
-- 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through structural biology and computational molecular science (CMS) directed at Nanomedicine (Molecular Nanotechnology) 
+- 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through structural biology and computational molecular science (CMS) directed at Deep Medicine.
+-  
 - I work on next-gen biotech, immuno(bio)engineering, computational structural biology, CAD, CMS & SE/AI/ML/DL/RL
 
 - I have launched several CROs: 
@@ -13,7 +14,8 @@
 Individualized Neuro-Immune Medicine. 
 
 - I am the Founder & Director at Gomera Health Inc. <br>
-Surgical Data Science, Advanced DNA Chemistry, Nanomedicine, and AI for Autonomous Molecular Design and Digitial Pathology
+Structure and Computation for Immunoreagents, Diagnostics to Vaccines, Advanced DNA Chemistry, Deep Medicine, Surgical Data Science (SDS)
+and AI for Autonomous Molecular Design and Digitial Pathology
 
 - I am the Founder & Board Chair at <a href=https://gomewritings.org>Gome Writings </a>(nonprofit) <br>
 "Writing Genomes" 
@@ -21,8 +23,10 @@ Surgical Data Science, Advanced DNA Chemistry, Nanomedicine, and AI for Autonomo
 - I am an Academic Editor for the MDPI journal <i> Cancers </i> <br>
 Special Issue: Neuro-oncology and neurotrauma
 
-- I actively research the field of Structural Biology, Neuropathology, Neuroendovascular Surgery (NES) & MSSE (CMS)
-- I am a Structural Molecular Biology (SMB) Graduate Student at CSUEB and Bioengineering student at Stanford Bioengineering Schools of Engineering and Medicine, and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) and UCSF Crystallography Facility
+- I actively research the field of Structural Biology, Neuropathology, Neuroendovascular Surgery (NES) 
+
+- I am a Biochemistry, Molecular and Structural Biology Graduate Student at CSUEB and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) SLAC National Accelerator Center and UCSF Crystallography Facility
+
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
@@ -70,7 +74,7 @@ Current Fav Artists:
 
 
 #### Twitter: [@djgplants](https://twitter.com/djgplants) 
-#### LinkedIn: [/in/dan-gomez-santos/](https://www.linkedin.com/in/dan-gomez-santos) 
+#### LinkedIn: [/in/danielgomez-cns/](https://www.linkedin.com/in/danielgomez-cns) 
 
 ### Skills
 
@@ -107,9 +111,8 @@ Current Fav Artists:
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - Molecular Science and Software Engineering (MSSE)
 - Medical School
-- PhD training program
-- Immunophysics
-- Immunoengineering
+- PhD training program (Computation and Neural Systems)
+- Immunophysics and Immunoengineering
 - Molecular Bioengineering, Nanotechnology, Nanomedicine
 - Software Engineering for Scientific Computing
 - Computational Quantum Chemistry
