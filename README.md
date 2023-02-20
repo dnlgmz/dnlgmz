@@ -1,9 +1,13 @@
 ### Hello ✨  I am Daniel Gomez!
 
-- I am a Neurosurgery Neurophyte 🧠🔪: 🤖🦾🎮🥢🤕🪡👨🏻‍⚕️🦴💉👩🏻‍⚕️ | ⚕️🏥🚑💉🩺🩹💊🏨👩🏻 ! 
-- I am a research assistant at @UFNeurosurgery and will bolster my neuroendovascular research and sustain my interest in medical school! 
-
 - 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through structural biology, molecular biophysics, and computational molecular science (CMS) directed at Deep Medicine.
+
+- My graduate studies and thesis is on the virophysics of a molecular machine as a promising antiviral target for drug discovery and development
+
+- I am authoring papers right now on synthetic and sturctural vaccinology (SSV), immunotherapy, advances in gene and cell therapy, and bioengineering an optimized drug eluting neuroendovascular biomedical device.
+
+- I am a Neurosurgery Neurophyte 🧠🔪: 🤖🦾🎮🥢🤕🪡👨🏻‍⚕️🦴💉👩🏻‍⚕️ | ⚕️🏥🚑💉🩺🩹💊🏨👩🏻 ! 
+- I am a research assistant at @UFNeurosurgery and will expand into neurosurgery research
 
 - I work on next-gen biotech, immuno(bio)engineering, computational structural biology, CAD, CMS & SE/AI/ML/DL/RL
 
@@ -11,11 +15,11 @@
 
 - I am the Founder & CEO at <a href=https://gome.bio>Gome Bio LLC</a>, @gomebio <br> 
 "Teaching the brain and immune system to fight disease together"  <br>
-Individualized Neuro-Immune Medicine. 
+Individualized Neuromedicine & Precision Medicine.  
 
 - I am the Founder & Director at <a href=https://gomera.io>Gomera Health Inc.</a><br>
-Structure and Computation for Immunoreagents, Diagnostics to Vaccines, Advanced DNA Chemistry, Deep Medicine, Surgical Data Science (SDS)
-and AI for Autonomous Molecular Design and Digitial Pathology
+Structure and Computation for Immunoreagents, Diagnostics to Vaccines, Advanced DNA Chemistry, 
+Deep Medicine, Surgical Data Science (SDS) and AI for Autonomous Molecular Design and Digitial Pathology
 
 - I am the Founder & Board Chair at <a href=https://gomewritings.org>Gome Writings </a>(nonprofit) <br>
 "Writing Genomes" 
