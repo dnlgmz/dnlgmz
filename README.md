@@ -1,4 +1,4 @@
-### Hello ✨  I am Daniel Santos!
+### Hello ✨  I am Daniel Gomez!
 
 - 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through structural biology, molecular biophysics, and computational molecular science (CMS) directed at Deep Medicine.
 
