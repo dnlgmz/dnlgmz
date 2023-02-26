@@ -1,25 +1,19 @@
 ### Hello ✨  I am Daniel Gomez!
 
-- 🔭 I’m currently pioneering individualized structural neuro/cancer immunology solutions through structural biology, molecular biophysics, and computational molecular science (CMS) directed at Deep Medicine.
+- 🔭 I’m currently pioneering an AI app (Gomera) that can facilitate robotic-assisted neuroendovascular surgery (NES) for aneurysm subarachnoid hemorrhage (aSAH) healing via an optimized drug eluting biomedical device for the coil embolization procedure. 
+- My work includes Biomedical ML Engineering, Structural and Computational Biophysics, leading the industry, and keeping a strategic mind. 
 
-- My graduate studies and thesis is on the virophysics of a molecular machine as a promising antiviral target for drug discovery and development
+- My graduate studies is in Struct Mol Bio, Microbio & Immuno (M&I), Oncology, and my thesis is on the Virophysics of a molecular nanomachine as a promising antiviral target for drug design, discovery, and development
 
-- I am authoring papers right now on synthetic and sturctural vaccinology (SSV), immunotherapy, advances in gene and cell therapy, and bioengineering an optimized drug eluting neuroendovascular biomedical device.
-
-- I am a Neurosurgery Neurophyte 🧠🔪: 🤖🦾🎮🥢🤕🪡👨🏻‍⚕️🦴💉👩🏻‍⚕️ | ⚕️🏥🚑💉🩺🩹💊🏨👩🏻 ! 
-- I am a research assistant at @UFNeurosurgery and will expand into neurosurgery research
-
-- I work on next-gen biotech, immuno(bio)engineering, computational structural biology, CAD, CMS & SE/AI/ML/DL/RL
+- I am authoring papers right now on synthetic and sturctural vaccinology (SSV), immunotherapy, advances in gene and cell therapy, and bioengineering.
 
 - I have launched several CROs: 
 
 - I am the Founder & CEO at <a href=https://gome.bio>Gome Bio LLC</a>, @gomebio <br> 
-"Teaching the brain and immune system to fight disease together"  <br>
-Individualized Neuromedicine & Precision Medicine.  
 
-- I am the Founder & Director at <a href=https://gomera.io>Gomera Health Inc.</a><br>
-Structure and Computation for Immunoreagents, Diagnostics to Vaccines, Advanced DNA Chemistry, 
-Deep Medicine, Surgical Data Science (SDS) and AI for Autonomous Molecular Design and Digitial Pathology
+- I am the Founding Executive Director at <a href=https://gomera.io>Gomera Health Inc.</a><br>
+Advanced DNA Chemistry, Structure and Computation for Immunoreagents, Diagnostics to Vaccines, Deep Medicine, 
+Surgical Data Science (SDS), AI in Surgery, and Digital Pathology
 
 - I am the Founder & Board Chair at <a href=https://gomewritings.org>Gome Writings </a>(nonprofit) <br>
 "Writing Genomes" 
@@ -27,13 +21,16 @@ Deep Medicine, Surgical Data Science (SDS) and AI for Autonomous Molecular Desig
 - I am an Academic Editor for the MDPI journal <i> Cancers </i> <br>
 Special Issue: Neuro-oncology and neurotrauma
 
-- I actively research the field of Structural Biology, Neuropathology, Neuroendovascular Surgery (NES) 
+
+
+- I actively research the field of Structural Biology, M&I, and Neuroendovascular Surgery (NES) 
 
 - I am a Biochemistry, Molecular and Structural Biology Graduate Student at CSUEB and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) SLAC National Accelerator Center and UCSF Crystallography Facility
 
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
+- Biomdical ML Engineering, Comp. Biophys. 
 - Neuroendovascular research (SAH, aneurysms and vascular repair, bioengineered NES devices)
 - Molecular neuroimmune-pathology
 - Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, DTI, PWI, MEG, HARDI, Q-balls)
