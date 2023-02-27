@@ -1,7 +1,6 @@
 ### Hello ✨  I am Daniel Gomez!
 
 - 🔭 I’m currently pioneering an AI app (Gomera) that can facilitate robotic-assisted neuroendovascular surgery (NES) for aneurysm subarachnoid hemorrhage (aSAH) healing via an optimized drug eluting biomedical device for the coil embolization procedure. 
-- My work includes Biomedical ML Engineering, Structural and Computational Biophysics, leading the industry, and keeping a strategic mind. 
 
 - My graduate studies is in Struct Mol Bio, Microbio & Immuno (M&I), Oncology, and my thesis is on the Virophysics of a molecular nanomachine as a promising antiviral target for drug design, discovery, and development
 
@@ -21,18 +20,16 @@ Surgical Data Science (SDS), AI in Surgery, and Digital Pathology
 - I am an Academic Editor for the MDPI journal <i> Cancers </i> <br>
 Special Issue: Neuro-oncology and neurotrauma
 
-
-
 - I actively research the field of Structural Biology, M&I, and Neuroendovascular Surgery (NES) 
 
-- I am a Biochemistry, Molecular and Structural Biology Graduate Student at CSUEB and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) SLAC National Accelerator Center and UCSF Crystallography Facility
+- I am a Virophysics, Molecular and Structural Biology Graduate Student at CSUEB and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) SLAC National Accelerator Center and UCSF Crystallography Facility
 
 - I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
-- Biomdical ML Engineering, Comp. Biophys. 
+- Biomedical ML Engineering, Structural and Computational Biophysics, and Cancer Research
 - Neuroendovascular research (SAH, aneurysms and vascular repair, bioengineered NES devices)
-- Molecular neuroimmune-pathology
+- Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
 - Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, DTI, PWI, MEG, HARDI, Q-balls)
 - Morphology and imaging (histology, live-cell, in vivo microscopy)
 - Metabolomics (plasma, serum, tissue extracts)
