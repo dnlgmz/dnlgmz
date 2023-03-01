@@ -108,7 +108,6 @@ Current Fav Artists:
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - Molecular Science and Software Engineering (MSSE)
-- Medical School
 - PhD training program (Computation and Neural Systems)
 - Immunophysics and Immunoengineering
 - Molecular Bioengineering, Nanotechnology, Nanomedicine
