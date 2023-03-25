@@ -71,7 +71,7 @@ Current Fav Artists:
 - Joyner Lucas
 
 
-#### Twitter: [@dangomezsantos](https://twitter.com/dangomezsantos) 
+#### Twitter: [@sandanielgomez](https://twitter.com/sandanielgomez) 
 #### LinkedIn: [/in/danielgomez-cns/](https://www.linkedin.com/in/danielgomez-cns) 
 
 ### Skills
