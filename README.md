@@ -1,10 +1,10 @@
-### Hello ✨  I am Daniel Gomez!
+### Hello ✨  I am Daniel Gomez-Santos!
 
-- 🔭 My graduate studies is in Struct Mol Bio (SMB), Microbio & Immuno (M&I), Cancer Biology (CB), and my current research is on Virophysics and Epitope-based Vaccines (EBV) of infection-related cancers and promising antiviral targets for drug design, discovery, and development
+- 🔭 My graduate studies is in Biochemistry and Biophysics (BB), Microbiology & Immunology (M&I), Cancer Biology (CB), and my current research is on Virophysics and Epitope-based Vaccines (EBV) of infection-related cancers and promising antiviral targets for drug design, discovery, and development
 
 - I am authoring papers right now on synthetic and sturctural vaccinology (SSV), immunotherapy, advances in gene and cell therapy, and bioengineering.
 
-- I have launched several CROs: 
+- As a serial startup founder, I have launched several CROs: 
 
 - I am the Founder & CEO at <a href=https://gome.bio>Gome Bio LLC</a>, @gomebio <br> 
 
@@ -105,16 +105,21 @@ Current Fav Artists:
 
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
-- Molecular Science and Software Engineering (MSSE)
-- PhD training program (Computation and Neural Systems)
+- PhD training program (Structural Biology)
 - Immunophysics and Immunoengineering
 - Molecular Bioengineering, Nanotechnology, Nanomedicine
+
+- Structure of the Universe concepts
+- Structural Cosmobiology ! 
+
+- Quantum Immunology
+- Quantum Computing for Immunology and Virology, Quantum Vaccinomics, Quantum Technologies
+
 - Software Engineering for Scientific Computing
 - Computational Quantum Chemistry
 - Applied Parralel Computing
 - High-Performance Computing
-- Quantum Immunology
-- Quantum Computing for Immunology and Virology, Quantum Vaccinomics, Quantum Technologies
+
 - Individualized Medicine
 	
 </html>
