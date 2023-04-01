@@ -1,6 +1,6 @@
 ### Hello ✨  I am Daniel Gomez!
 
-- 🔭 My graduate studies is in Struct Mol Bio (SMB), Microbio & Immuno (M&I), Cancer Biology (CB), and my thesis is on the Virophysics of a molecular nanomachine as a promising antiviral target for drug design, discovery, and development
+- 🔭 My graduate studies is in Struct Mol Bio (SMB), Microbio & Immuno (M&I), Cancer Biology (CB), and my current research is on Virophysics and Epitope-based Vaccines (EBV) of infection-related cancers and promising antiviral targets for drug design, discovery, and development
 
 - I am authoring papers right now on synthetic and sturctural vaccinology (SSV), immunotherapy, advances in gene and cell therapy, and bioengineering.
 
@@ -69,7 +69,7 @@ Current Fav Artists:
 - Joyner Lucas
 
 
-#### Twitter: [@sandanielgomez](https://twitter.com/sandanielgomez) 
+#### Twitter: [@djgomezsantos](https://twitter.com/djgomezsantos) 
 #### LinkedIn: [/in/danielgomez-cns/](https://www.linkedin.com/in/danielgomez-cns) 
 
 ### Skills
