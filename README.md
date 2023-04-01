@@ -1,8 +1,6 @@
 ### Hello ✨  I am Daniel Gomez!
 
-- 🔭 I’m currently pioneering an AI app (Gomera) that can facilitate robotic-assisted neuroendovascular surgery (NES) for aneurysm subarachnoid hemorrhage (aSAH) healing via an optimized drug eluting biomedical device for the coil embolization procedure. 
-
-- My graduate studies is in Struct Mol Bio (SMB), Microbio & Immuno (M&I), Cancer Biology (CB), and my thesis is on the Virophysics of a molecular nanomachine as a promising antiviral target for drug design, discovery, and development
+- 🔭 My graduate studies is in Struct Mol Bio (SMB), Microbio & Immuno (M&I), Cancer Biology (CB), and my thesis is on the Virophysics of a molecular nanomachine as a promising antiviral target for drug design, discovery, and development
 
 - I am authoring papers right now on synthetic and sturctural vaccinology (SSV), immunotherapy, advances in gene and cell therapy, and bioengineering.
 
