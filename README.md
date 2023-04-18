@@ -1,14 +1,12 @@
 ### Hello ✨  I am Daniel Gomez-Santos!
 
-- 🔭 My graduate studies is in Biochemistry and Biophysics (BB), Microbiology & Immunology (M&I), Cancer Biology (CB), and my current research is on Virophysics and Epitope-based Vaccines (EBV) of infection-related cancers and promising antiviral targets for drug design, discovery, and development
+- 🔭 My graduate studies is in Cancer Research, Biochemistry and Biophysics (BB), Microbiology & Immunology (M&I), and I work on Epitope-based Vaccines (EBVs) of infection-related and non-infection-related cancers by discovering promising antiviral targets for drug design, discovery, and development
 
-- I am authoring papers right now on synthetic and sturctural vaccinology (SSV), immunotherapy, advances in gene and cell therapy, and bioengineering.
-
-- As a serial startup founder, I have launched several CROs: 
+- As a industrialist, I have launched several CROs: 
 
 - I am the Founder & CEO at <a href=https://gome.bio>Gome Bio LLC</a>, @gomebio <br> 
 
-- I am the Founding Executive Director at <a href=https://gomera.io>Gomera Health Inc.</a><br>
+- I am the President and Founding Executive Director at <a href=https://gomera.io>Gomera Health Inc.</a><br>
 Advanced DNA Chemistry, Structure and Computation for Immunoreagents, Diagnostics to Vaccines, Deep Medicine, 
 Surgical Data Science (SDS), AI in Surgery, and Digital Pathology
 
@@ -20,35 +18,37 @@ Special Issue: Neuro-oncology and neurotrauma
 
 - I actively research the field of Structural Biology, M&I, and Neuroendovascular Surgery (NES) 
 
-- I am a Virophysics, Molecular and Structural Biology Graduate Student at CSUEB and my thesis research is at Stanford Synchrotron Radiation Lightsource (SSRL) SLAC National Accelerator Center and UCSF Crystallography Facility
-
-- I am a Graduate Student Associate at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
+- I also volunteer as a Virtual Associate Fellow at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
+- Clinical Medicine
+- Cancer Immunotherapy: Biochemistry and Molecular Biophysics
+- Biological cryogenic electron microscopy and tomography 
+- Metabolomics (plasma, serum, tissue extracts)
+- Molecular Structural Biology - Organelle Structural Biology
+- Structural bioinformatics
+
+
+- Multiplex imaging through multi-omics 
+- Spatial analysis of tissue architecture & cellular niches
+- Spatial Multi-Omics
+- Annotating spatially resolved single-cell data by spatial cell learning
+- Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
+- Neuroimmunology and Tumors Immune Microenvironments (TiME)
+- Designing and engineering multiscale biological, synthetic, and molecular circuits
+- Deep generative molecular design in drug discovery (hybrid data models, multimodal generative models)
+
 - Biomedical ML Engineering, Structural and Computational Biophysics, and Cancer Research
-- Neuroendovascular research (SAH, aneurysms and vascular repair, bioengineered NES devices)
+- Surgical Data Science (AI, ML, DL, RL) and Deep Medicine
 - Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
 - Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, DTI, PWI, MEG, HARDI, Q-balls)
 - Morphology and imaging (histology, live-cell, in vivo microscopy)
-- Metabolomics (plasma, serum, tissue extracts)
+ 
 - Next-generation Biotechnology and Modern Molecular Cell Biology
-- Mouse phenotyping by in vivo phenotyping (IVP)
 - Single-cell biology (scRNAseq, snRNAseq, etc)
-- Annotating spatially resolved single-cell data by spatial cell learning
-- Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
-- Spatial analysis of tissue architecture & cellular niches
-- Multiplex imaging through multi-omics 
-- Molecular Structural Biology - Organelle Structural Biology
-- Biological cryogenic microscopy and tomography 
-- Deep generative molecular design in drug discovery (hybrid data models, multimodal generative models)
-- Neuroimmunology and Tumors Immune Microenvironments (TiME)
-- Cancer Immunotherapy: Biochemistry and Molecular Biophysics
-- Neuroengineering, Immune Engineering, Virus Engineering and Applications
-- Designing and engineering multiscale biological, synthetic, and molecular circuits
-- Spatial Omics (SG, ST, SP)
-- Surgical Data Science (AI, ML, DL)
-- Structural bioinformatics
+
 - Programming: Go, Python, C++, R, Cairo, and Motoko 
+
 
 Current Fav Artists:
 - Tchaikovsky
@@ -106,21 +106,22 @@ Current Fav Artists:
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - PhD training program (Structural Biology)
+- Individualized Medicine
+- Molecular Medicine
+- Cell Biology
+- Disease Biology
+- Cancer epidemiology
+
+## Hobbies
 - Immunophysics and Immunoengineering
 - Molecular Bioengineering, Nanotechnology, Nanomedicine
-
-- Structure of the Universe concepts
-- Structural Cosmobiology ! 
-
 - Quantum Immunology
 - Quantum Computing for Immunology and Virology, Quantum Vaccinomics, Quantum Technologies
-
 - Software Engineering for Scientific Computing
 - Computational Quantum Chemistry
 - Applied Parralel Computing
 - High-Performance Computing
 
-- Individualized Medicine
 	
 </html>
 
