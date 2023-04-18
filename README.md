@@ -1,6 +1,6 @@
-### Hello ✨  I am Daniel Gomez-Santos!
+### Hello ✨  I am Dan Joseph!
 
-- 🔭 My graduate studies is in Cancer Research, Biochemistry and Biophysics (BB), Microbiology & Immunology (M&I), and I work on Epitope-based Vaccines (EBVs) of infection-related and non-infection-related cancers by discovering promising antiviral targets for drug design, discovery, and development
+- 🔭 My graduate studies and research is in Cancer Research, Biochemistry and Biophysics (BB), Microbiology & Immunology (M&I), and Biology. I work on Epitope-based Vaccines (EBVs) of infection-related and non-infection-related cancers by discovering promising antiviral targets for drug design, discovery, and development.
 
 - As a industrialist, I have launched several CROs: 
 
