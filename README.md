@@ -1,4 +1,4 @@
-### Hello ✨  I am DJ!
+### Hello ✨  I am Daniel!
 
 - 🔭 My graduate studies and research is in Cancer Research, Structural Biology (SBIO), Biochemistry and Biophysics (BB), Molecular Biology and Genomics.
 
