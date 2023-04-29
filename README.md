@@ -1,6 +1,6 @@
-### Hello ✨  I am Dan Joseph!
+### Hello ✨  I am DJ!
 
-- 🔭 My graduate studies and research is in Cancer Research, Biochemistry and Biophysics (BB), Microbiology & Immunology (M&I), and Biology. I work on Epitope-based Vaccines (EBVs) of infection-related and non-infection-related cancers by discovering promising antiviral targets for drug design, discovery, and development.
+- 🔭 My graduate studies and research is in Cancer Research, Structural Biology (SBIO), Biochemistry and Biophysics (BB), Molecular Biology and Genomics.
 
 - As a industrialist, I have launched several CROs: 
 
@@ -13,15 +13,11 @@ Surgical Data Science (SDS), AI in Surgery, and Digital Pathology
 - I am the Founder & Board Chair at <a href=https://gomewritings.org>Gome Writings </a>(nonprofit) <br>
 "Writing Genomes" 
 
-- I am an Academic Editor for the MDPI journal <i> Cancers </i> <br>
-Special Issue: Neuro-oncology and neurotrauma
-
-- I actively research the field of Structural Biology, M&I, and Neuroendovascular Surgery (NES) 
-
 - I also volunteer as a Virtual Associate Fellow at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
 - Clinical Medicine
+- Cancer Neuroscience as a Neural Addiction
 - Cancer Immunotherapy: Biochemistry and Molecular Biophysics
 - Biological cryogenic electron microscopy and tomography 
 - Metabolomics (plasma, serum, tissue extracts)
@@ -69,8 +65,8 @@ Current Fav Artists:
 - Joyner Lucas
 
 
-#### Twitter: [@djgomezsantos](https://twitter.com/djgomezsantos) 
-#### LinkedIn: [/in/danielgomez-cns/](https://www.linkedin.com/in/danielgomez-cns) 
+#### Twitter: [@danielsoncology](https://twitter.com/danielsoncology) 
+#### LinkedIn: [/in/danielgomez-mbp/](https://www.linkedin.com/in/danielgomez-mbp) 
 
 ### Skills
 
@@ -110,7 +106,7 @@ Current Fav Artists:
 - Molecular Medicine
 - Cell Biology
 - Disease Biology
-- Cancer epidemiology
+- Cancer Neuroscience
 
 ## Hobbies
 - Immunophysics and Immunoengineering
@@ -120,7 +116,7 @@ Current Fav Artists:
 - Software Engineering for Scientific Computing
 - Computational Quantum Chemistry
 - Applied Parralel Computing
-- High-Performance Computing
+- High-Performance Computing (HPC)
 
 	
 </html>
