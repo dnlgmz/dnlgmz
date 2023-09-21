@@ -1,24 +1,20 @@
 ### Hello ✨  I am Daniel!
 
-- 🔭 My graduate studies and research is in Cancer Research, Structural Biology (SBIO), Biochemistry and Biophysics (BB), Molecular Biology and Genomics.
+- 🔭 My graduate studies and research has been in Cancer, Co-infections, Structural Biology, Bioengineering, Molecular Biology and Genomics. Currently, I am doing my thesis research in exercise molecular biology.
 
-- As a industrialist, I have launched several CROs: 
-
-- I am the Founder & CEO at <a href=https://gome.bio>Gome Bio LLC</a>, @gomebio <br> 
-
+- As a industrialist, I have launched a start-up:
+  
 - I am the President and Founding Executive Director at <a href=https://gomera.io>Gomera Health Inc.</a><br>
-Advanced DNA Chemistry, Structure and Computation for Immunoreagents, Diagnostics to Vaccines, Deep Medicine, 
+"Identify new cures, advanced diagnostics, effective therapeutics, and surgical innovations"
+The goal is to provide these:
+Advanced DNA Chemistry, Structure and Computation for Immunoreagents, Diagnostics to Therapeutics, Deep Medicine, 
 Surgical Data Science (SDS), AI in Surgery, and Digital Pathology
-
-- I am the Founder & Board Chair at <a href=https://gomewritings.org>Gome Writings </a>(nonprofit) <br>
-"Writing Genomes" 
 
 - I also volunteer as a Virtual Associate Fellow at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
 - Clinical Medicine
-- Cancer Neuroscience as a Neural Addiction
-- Cancer Immunotherapy: Biochemistry and Molecular Biophysics
+- Cancer Neuroscience and Immunotherapy: Biochemistry and Molecular Biophysics
 - Biological cryogenic electron microscopy and tomography 
 - Metabolomics (plasma, serum, tissue extracts)
 - Molecular Structural Biology - Organelle Structural Biology
@@ -37,13 +33,13 @@ Interests:
 - Biomedical ML Engineering, Structural and Computational Biophysics, and Cancer Research
 - Surgical Data Science (AI, ML, DL, RL) and Deep Medicine
 - Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
-- Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, DTI, PWI, MEG, HARDI, Q-balls)
+- Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls) multimodal neuronavigation 
 - Morphology and imaging (histology, live-cell, in vivo microscopy)
- 
-- Next-generation Biotechnology and Modern Molecular Cell Biology
-- Single-cell biology (scRNAseq, snRNAseq, etc)
 
-- Programming: Go, Python, C++, R, Cairo, and Motoko 
+- Next-generation Biotechnology and Modern Molecular Cell Biology
+- Single-cell biology (scATACseq, scRNAseq, snRNAseq, etc)
+
+- Programming: Go, Python, R
 
 
 Current Fav Artists:
@@ -65,8 +61,8 @@ Current Fav Artists:
 - Joyner Lucas
 
 
-#### Twitter: [@danthegmz](https://twitter.com/danthegmz) 
-#### LinkedIn: [/in/danielgomez-csb/](https://www.linkedin.com/in/danielgomez-csb) 
+#### Twitter: [@danthegmz](https://twitter.com/danieljgmez) 
+#### LinkedIn: [/in/danielgomez-csb/](https://www.linkedin.com/in/daniel-gomez-gtc) 
 
 ### Skills
 
@@ -79,7 +75,7 @@ Current Fav Artists:
 - Gel Electrophoresis, Tapestation, Sonication
 - Cell culture (co-cultures): Mammalian (primary), prokaryotes and yeast 
 - Tissue (in situ) experiments (immunohistochemistry, in situ hybridization)
-- Surgical methods in whole animal (in toto) to organ isolation (ex vivo)
+- Surgical methods in whole animal (in toto) to organ isolation (ex vivo), brain tumor resection
 - Bioinformatics (in silico)
 - Computational Cancer Genomics 
 - Statistical analysis and computing
@@ -101,12 +97,13 @@ Current Fav Artists:
 
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
-- PhD training program (Structural Biology)
-- Individualized Medicine
-- Molecular Medicine
-- Cell Biology
-- Disease Biology
+- PhD training program (Biomedical Sciences)
+- Personal Deep Omics Profiling and Human Variation
+- P4 Medicine (predictive, preventative, personalized, participatory) 
+- O4 medicine (overtesting, overdiagnosis, overtreatment, overcharging)
+- Molecular and Laboratory Medicine
 - Cancer Neuroscience
+- Genetics and MCP
 
 ## Hobbies
 - Immunophysics and Immunoengineering
