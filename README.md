@@ -61,8 +61,8 @@ Current Fav Artists:
 - Joyner Lucas
 
 
-#### Twitter: [@danthegmz](https://twitter.com/danieljgmez) 
-#### LinkedIn: [/in/danielgomez-csb/](https://www.linkedin.com/in/daniel-gomez-gtc) 
+#### Twitter: [@danieljgmez](https://twitter.com/danieljgmez) 
+#### LinkedIn: [/in/daniel-gomez-gtc/](https://www.linkedin.com/in/daniel-gomez-gtc) 
 
 ### Skills
 
