@@ -4,7 +4,7 @@
 
 - As a industrialist, I have launched a start-up:
   
-- I am the President and Founding Executive Director at <a href=https://gomera.io>Gomera Health Inc.</a><br>
+- I am the President and Founding Executive Director at <a href=https://gomerahealth.com>Gomera Health Inc.</a><br>
 "Identify new cures, advanced diagnostics, effective therapeutics, and surgical innovations"
 The goal is to provide these:
 Advanced DNA Chemistry, Structure and Computation for Immunoreagents, Diagnostics to Therapeutics, Deep Medicine, 
