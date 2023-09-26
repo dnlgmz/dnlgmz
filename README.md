@@ -1,6 +1,6 @@
 ### Hello ✨ I am Daniel!
 
-My biographical website is <a href="www.danielgomez.bio">DanielGomez.Bio</a>
+My biographical website is <a href="https://www.danielgomez.bio">DanielGomez.Bio</a>
 
 - 🔭 My graduate studies and research has been in Tropical Medicine, Cell and Molecular Biology, Cancer, Infectious Disease, Structural Biology, Bioengineering, and Computational Medicine. Currently, I am doing my thesis research in exercise molecular biology.
 
