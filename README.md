@@ -1,18 +1,18 @@
 ### Hello ✨ I am Daniel!
 
-- 🔭 My graduate studies and research has been in Cancer, Co-infections, Structural Biology, Bioengineering, Molecular Biology and Genomics. Currently, I am doing my thesis research in exercise molecular biology.
+- 🔭 My graduate studies and research has been in Tropical Medicine, Cell and Molecular Biology, Cancer, Infectious Disease, Structural Biology, Bioengineering, and Computational Medicine. Currently, I am doing my thesis research in exercise molecular biology.
 
 - As a industrialist, I have launched a start-up:
   
-- I am the President and Founding Executive Director at <a href=https://gomerahealth.com>Gomera Health Inc.</a><br>
+- I am the President at <a href=https://gomerahealth.com>Gomera Health Inc.</a><br>
 "Identify new cures, advanced diagnostics, effective therapeutics, and surgical innovations"
-The goal is to provide these:
-Advanced DNA Chemistry, Structure and Computation for Immunoreagents, Diagnostics to Therapeutics, Deep Medicine, 
-Surgical Data Science (SDS), AI in Surgery, and Digital Pathology
+The goal is to provide these: Advanced DNA Chemistry, Structure and Computation for Immunoreagents, Diagnostics to Therapeutics, Deep Medicine, Surgical Data Science (SDS), AI in Surgery, and Digital Pathology
 
 - I also volunteer as a Virtual Associate Fellow at Drexel University College of Medicine (Microbiology & Immunology, Neurobiology and Anatomy)
 
 Interests:
+- Computational Precision Medicine (Clinical Science)
+
 - Mechanisms that underlie the benefits of exercise (exercise science research)
 - Next-generation Biotechnology and Modern Molecular Cell Biology
 - Mapping molecular responses in whole organisms
@@ -100,12 +100,10 @@ Current Fav Artists:
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - PhD training program (Biomedical Sciences)
+- Computational Clinical Science
 - Personal Deep Omics Profiling and Human Variation
-- P4 Medicine (predictive, preventative, personalized, participatory) 
-- O4 medicine (overtesting, overdiagnosis, overtreatment, overcharging)
-- Molecular and Laboratory Medicine
 - Cancer Neuroscience
-- Genetics and MCP
+- Genetics
 
 ## Hobbies
 - Immunophysics and Immunoengineering
