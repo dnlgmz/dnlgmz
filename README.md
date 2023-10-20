@@ -2,16 +2,18 @@
 
 My biographical website is <a href="https://www.danielgomez.bio">DanielGomez.Bio</a>
 
-- 🔭 My graduate studies and research has been in Tropical Medicine, Cell and Molecular Biology, Cancer, Infectious Disease, Structural Biology, Bioengineering, and Computational Medicine. Currently, I am doing my thesis research in exercise molecular biology.
+- 🔭 My graduate studies and research has been in Tropical Medicine, Cell and Molecular Biology, Cancer, Infectious Disease, Structural Biology, Bioengineering, Aging, and Computational Precision Medicine. 
+- Presently, I am doing my thesis research in exercise molecular biology.
 
 Interests:
 - Computational Precision Medicine (Clinical Science)
-
 - Mechanisms that underlie the benefits of exercise (exercise science research)
+- Biology of Aging and Longevity
+- - Multi-omics multi-tissue mapping ("Tissue- and Organism-Wide 2D/3D Multi-omics")
+- Deep Omics Profiling
 - Next-generation Biotechnology and Modern Molecular Cell Biology
 - Mapping molecular responses in whole organisms
-- Multi-omics multi-tissue mapping ("Tissue- and Organism-Wide 2D/3D Multi-omics")
-- Deep Omics Profiling
+
 
 - Spatial Multi-Omics and Multiplex Imaging
 - Single-cell biology (scATACseq, scRNAseq, snRNAseq, etc)
@@ -34,8 +36,7 @@ Interests:
 - Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls) multimodal neuronavigation 
 - Morphology and imaging (histology, live-cell, in vivo microscopy)
 
-- Programming: Go, Python, R
-
+- Programming: R, Python, Go, Mojo
 
 Current Fav Artists:
 - Tchaikovsky
