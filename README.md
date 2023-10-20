@@ -36,7 +36,13 @@ Interests:
 - Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls) multimodal neuronavigation 
 - Morphology and imaging (histology, live-cell, in vivo microscopy)
 
-- Programming: R, Python, Go, Mojo
+- Molecular Bioengineering, Nanotechnology, Nanomedicine
+- Immunophysics and Immunoengineering, Quantum Immunology
+- Quantum Computing for Immunology and Virology, Quantum Vaccinomics, Quantum Technologies
+- Software Engineering for Scientific Computing
+- Computational Quantum Chemistry
+- Applied Parralel Computing
+- High-Performance Computing (HPC)
 
 Current Fav Artists:
 - Tchaikovsky
@@ -67,18 +73,24 @@ Current Fav Artists:
 - Phlebotomy (winged needle collection)
 - Cell viability assays
 - Funcational assay design
-- DNA/RNA extraction
+- DNA/RNA/Protein extraction/isolation/purifcation
 - PCR (qPCR), Sequencing (NGS), & Fragment Analysis
 - Gel Electrophoresis, Tapestation, Sonication
+
+  
 - Cell culture (co-cultures): Mammalian (primary), prokaryotes and yeast 
 - Tissue (in situ) experiments (immunohistochemistry, in situ hybridization)
 - Surgical methods in whole animal (in toto) to organ isolation (ex vivo), brain tumor resection
+
+- Data Science and Cloud Computing of Precision Medicine
 - Bioinformatics (in silico)
 - Computational Cancer Genomics 
 - Statistical analysis and computing
-- Machine Learning & AI
+- Machine Learning & Generative AI
 - Deep Learning, Reinforcement Learning
 - Processing large data sets
+
+- Data Analysis 
 - Data Visualization
 - Data Wrangling
 - Mathematics
@@ -91,7 +103,6 @@ Current Fav Artists:
 - Neurology
 - Cardiology
 - Protective Laboratory design
-
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - PhD training program (Biomedical Sciences)
@@ -101,14 +112,13 @@ Current Fav Artists:
 - Genetics
 
 ## Hobbies
-- Immunophysics and Immunoengineering
-- Molecular Bioengineering, Nanotechnology, Nanomedicine
-- Quantum Immunology
-- Quantum Computing for Immunology and Virology, Quantum Vaccinomics, Quantum Technologies
-- Software Engineering for Scientific Computing
-- Computational Quantum Chemistry
-- Applied Parralel Computing
-- High-Performance Computing (HPC)
+- Exercising (strength and functional training) (cardiovascular actviity, circuit training)
+- Reading, Listening to Audiobooks
+- Writing
+- Digital Art
+- Web and App development
+
+
 
 	
 </html>
