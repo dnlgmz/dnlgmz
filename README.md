@@ -1,6 +1,6 @@
 ### Hello ✨ I am Daniel!
 
-My biographical website is <a href="https://www.danielgomez.bio">DanielGomez.Bio</a>
+My biographical website is <a href="https://www.danielgomez.bio">Daniel Gomez</a>
 
 The my personal webiste is <a href="https://www.danieljgomez.net">Daniel J. Gomez</a>
 
