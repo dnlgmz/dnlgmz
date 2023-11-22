@@ -91,6 +91,8 @@ Interests:
 - Cardiology
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
+- Scientist
+- Research Associate
 - Computational Clinical Scientist
 - Computational Biologist
 - Molecular Biologist
