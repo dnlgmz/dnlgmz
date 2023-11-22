@@ -2,6 +2,8 @@
 
 My biographical website is <a href="https://www.danielgomez.bio">DanielGomez.Bio</a>
 
+The my personal webiste is <a href="https://www.danieljgomez.net">Daniel J. Gomez</a>
+
 - 🔭 My graduate studies and research was in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Cancer, Infectious Disease, Bioengineering, and Structural Biology
 - Presently, I am doing my thesis research in Omics and Molecular Exercise Physiology and Computational Precision Medicine. 
 
