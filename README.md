@@ -2,66 +2,45 @@
 
 My biographical website is <a href="https://www.danielgomez.bio">DanielGomez.Bio</a>
 
-- 🔭 My graduate studies and research has been in Tropical Medicine, Cell and Molecular Biology, Cancer, Infectious Disease, Structural Biology, Bioengineering, Aging, and Computational Precision Medicine. 
-- Presently, I am doing my thesis research in exercise molecular biology.
+- 🔭 My graduate studies and research was in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Cancer, Infectious Disease, Bioengineering, and Structural Biology
+- Presently, I am doing my thesis research in Omics and Molecular Exercise Physiology and Computational Precision Medicine. 
 
 Interests:
+- Omics and Molecular Exercise Physiology
+- Exerkines and Exercise Responsomes
+
+- Deep Omics Profiling and Human Variation
+- Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
+
 - Computational Precision Medicine (Clinical Science)
 - Mechanisms that underlie the benefits of exercise (exercise science research)
-- Biology of Aging and Longevity
-- - Multi-omics multi-tissue mapping ("Tissue- and Organism-Wide 2D/3D Multi-omics")
-- Deep Omics Profiling
-- Next-generation Biotechnology and Modern Molecular Cell Biology
-- Mapping molecular responses in whole organisms
-
 
 - Spatial Multi-Omics and Multiplex Imaging
 - Single-cell biology (scATACseq, scRNAseq, snRNAseq, etc)
 - Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
 - Spatial analysis of tissue architecture & cellular niches
 - Annotating spatially resolved single-cell data by spatial cell learning
+- Next-generation Biotechnology and Modern Molecular Cell Biology
+
+
   
 - Cancer Neuroscience and Immunotherapy
 - Biological cryogenic electron microscopy and tomography 
-- Molecular Structural Biology - Organelle Structural Biology
-- Bioinformatics
+- Molecular and Structural Biology
 - Clinical Medicine
 - Neuroimmunology and Tumors Immune Microenvironments (TiME)
-- Designing and engineering multiscale biological, synthetic, and molecular circuits
-- Deep generative molecular design in drug discovery (hybrid data models, multimodal generative models)
 
-- Biomedical ML Engineering, Structural and Computational Biophysics, and Cancer Research
 - Surgical Data Science (AI, ML, DL, RL) and Deep Medicine
 - Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
 - Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls) multimodal neuronavigation 
 - Morphology and imaging (histology, live-cell, in vivo microscopy)
+-Molecular Bioengineering, Nanotechnology, Nanomedicine
 
-- Molecular Bioengineering, Nanotechnology, Nanomedicine
-- Immunophysics and Immunoengineering, Quantum Immunology
-- Quantum Computing for Immunology and Virology, Quantum Vaccinomics, Quantum Technologies
-- Software Engineering for Scientific Computing
-- Computational Quantum Chemistry
-- Applied Parralel Computing
-- High-Performance Computing (HPC)
 
-Current Fav Artists:
-- Tchaikovsky
-- Dali
-- Mozart
-- Sarasate
-- Saint-Saëns
-- Brahmms
-- Paganini
-- Wieniawski
-- Ray Gomez
-- Rodrigo y Gabriela
-- 40 fingers
-- The Weekend
-- Khalid
-- DDG
-- SAINt JHN
-- Alex Serra
-- Joyner Lucas
+- Data Science
+- Cloud computing
+- Bioinformatics
+
 
 
 #### Twitter: [@danieljgmez](https://twitter.com/danieljgmez) 
@@ -69,16 +48,23 @@ Current Fav Artists:
 
 ### Skills
 
-- Basic Lab & Safety (GMP, BBP, IRB)	
+- Basic Lab & Safety (GMP, BBP, IRB)
+- Cell viability assays (whole blood)
+
+- Funcational assay and experimental design
+
+- DNA isolation
+- Plasmid Minipreps
+- RNA isolation
+- Protein purifcation
+
+- PCR (qPCR), Sequencing (Sanger, capillary, NGS), & Fragment Analysis
+
+- Gel Electrophoresis (DNA and Protein)
 - Phlebotomy (winged needle collection)
-- Cell viability assays
-- Funcational assay design
-- DNA/RNA/Protein extraction/isolation/purifcation
-- PCR (qPCR), Sequencing (NGS), & Fragment Analysis
-- Gel Electrophoresis, Tapestation, Sonication
 
   
-- Cell culture (co-cultures): Mammalian (primary), prokaryotes and yeast 
+- Cell culture (co-cultures) Supervision: Mammalian (primary, cell lines), prokaryotes and yeast 
 - Tissue (in situ) experiments (immunohistochemistry, in situ hybridization)
 - Surgical methods in whole animal (in toto) to organ isolation (ex vivo), brain tumor resection
 
@@ -89,34 +75,30 @@ Current Fav Artists:
 - Machine Learning & Generative AI
 - Deep Learning, Reinforcement Learning
 - Processing large data sets
-
+- Molecular Science
 - Data Analysis 
 - Data Visualization
 - Data Wrangling
 - Mathematics
 - Programming
-- Big Data
-- Molecular Science
+- Big Data and Omics
 - Software Engineering
 - Cancer Biology
 - Immunology
 - Neurology
 - Cardiology
-- Protective Laboratory design
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
-- PhD training program (Biomedical Sciences)
-- Computational Clinical Science
-- Personal Deep Omics Profiling and Human Variation
-- Cancer Neuroscience
-- Genetics
+- Computational Clinical Scientist
+- Computational Biologist
+- Molecular Biologist
 
 ## Hobbies
 - Exercising (strength and functional training) (cardiovascular actviity, circuit training)
 - Reading, Listening to Audiobooks
-- Writing
+- Writing (Creative and Technical)
 - Digital Art
-- Web and App development
+- Web, Web3, and App development
 
 
 
