@@ -1,83 +1,73 @@
 ### Hello ✨ I am Daniel!
 
-My biographical website is <a href="https://www.danielgomez.bio">Daniel Gomez</a>
+My personal webiste is <a href="https://www.danieljgomez.net">here</a>.
 
-The my personal webiste is <a href="https://www.danieljgomez.net">Daniel J. Gomez</a>
+- 🔭 My graduate studies in MCB and research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Cancer, Infectious Disease, Bioengineering, Structural Biology, and Genetics.
+- Presently, I am doing my thesis research in Multiomics and Molecular Exercise Physiology and Precision Exercise Medicine. 
 
-- 🔭 My graduate studies and research was in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Cancer, Infectious Disease, Bioengineering, and Structural Biology
-- Presently, I am doing my thesis research in Omics and Molecular Exercise Physiology and Computational Precision Medicine. 
-
-Interests:
-- Omics and Molecular Exercise Physiology
+Research Interests:
 - Exerkines and Exercise Responsomes
-
-- Deep Omics Profiling and Human Variation
+- Mechanisms that underlie the benefits of exercise (exercise science research)
+- Exercise Biochemistry and Exercise Molecular Biology
+- 
+- Computational Precision Medicine (Clinical Science)
 - Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
 
-- Computational Precision Medicine (Clinical Science)
-- Mechanisms that underlie the benefits of exercise (exercise science research)
+- Cancer Neuroscience
+- Biological cryogenic electron microscopy and tomography 
+- Clinical Neuroimmunology
+- Tumors Immune Microenvironments (TiME)
+- Molecular Bioengineering, Nanotechnology, Nanomedicine
 
+
+
+Technique Interests:
 - Spatial Multi-Omics and Multiplex Imaging
 - Single-cell biology (scATACseq, scRNAseq, snRNAseq, etc)
 - Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
 - Spatial analysis of tissue architecture & cellular niches
 - Annotating spatially resolved single-cell data by spatial cell learning
-- Next-generation Biotechnology and Modern Molecular Cell Biology
-
-
-  
-- Cancer Neuroscience and Immunotherapy
-- Biological cryogenic electron microscopy and tomography 
-- Molecular and Structural Biology
-- Clinical Medicine
-- Neuroimmunology and Tumors Immune Microenvironments (TiME)
-
 - Surgical Data Science (AI, ML, DL, RL) and Deep Medicine
 - Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
-- Conductome, neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls) multimodal neuronavigation 
+- Neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls)
+- multimodal neuronavigation 
 - Morphology and imaging (histology, live-cell, in vivo microscopy)
--Molecular Bioengineering, Nanotechnology, Nanomedicine
-
-
-- Data Science
-- Cloud computing
-- Bioinformatics
 
 
 
 #### Twitter: [@danieljgmez](https://twitter.com/danieljgmez) 
 #### LinkedIn: [/in/djgomez-gtc/](https://www.linkedin.com/in/djgomez-gtc) 
+### Mastodon: [@danielgomez@mastodon.social](https://mastodon.social/@danielgomez)]
 
 ### Skills
 
+- Data Science and Cloud Computing of Precision Medicine
+- Bioinformatics (in silico)
+- Computational Cancer Genomics 
+- Statistical analysis and computing
 - Basic Lab & Safety (GMP, BBP, IRB)
 - Cell viability assays (whole blood)
 
 - Funcational assay and experimental design
 
 - DNA isolation
-- Plasmid Minipreps
-- RNA isolation
-- Protein purifcation
-
 - PCR (qPCR), Sequencing (Sanger, capillary, NGS), & Fragment Analysis
 
-- Gel Electrophoresis (DNA and Protein)
-- Phlebotomy (winged needle collection)
+- Plasmid Minipreps
+- RNA isolation
 
-  
-- Cell culture (co-cultures) Supervision: Mammalian (primary, cell lines), prokaryotes and yeast 
+- Protein Purifcation
+- Protein Harvesting
+
+- Gel Electrophoresis (DNA and Protein (SDS-PAGE))
+- Protein concentration assays (e.g. Bradford assay)
+
+
 - Tissue (in situ) experiments (immunohistochemistry, in situ hybridization)
 - Surgical methods in whole animal (in toto) to organ isolation (ex vivo), brain tumor resection
-
-- Data Science and Cloud Computing of Precision Medicine
-- Bioinformatics (in silico)
-- Computational Cancer Genomics 
-- Statistical analysis and computing
 - Machine Learning & Generative AI
 - Deep Learning, Reinforcement Learning
 - Processing large data sets
-- Molecular Science
 - Data Analysis 
 - Data Visualization
 - Data Wrangling
@@ -98,13 +88,12 @@ Interests:
 - Molecular Biologist
 
 ## Hobbies
+- Playlist curating (DJ)
 - Exercising (strength and functional training) (cardiovascular actviity, circuit training)
-- Reading, Listening to Audiobooks
+- Reading, Listening to Audiobooks and Podcasts
 - Writing (Creative and Technical)
 - Digital Art
-- Web, Web3, and App development
-
-
+- Web design, Web3, and App development
 
 	
 </html>
