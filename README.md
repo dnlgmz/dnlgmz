@@ -85,6 +85,7 @@ Technique Interests:
 - Research Associate
 - Computational Clinical Scientist
 - Computational Biologist
+- Bioinformatitian
 - Molecular Biologist
 
 ## Hobbies
