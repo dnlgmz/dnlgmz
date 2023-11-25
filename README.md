@@ -9,7 +9,7 @@ Research Interests:
 - Exerkines and Exercise Responsomes
 - Mechanisms that underlie the benefits of exercise (exercise science research)
 - Exercise Biochemistry and Exercise Molecular Biology
-- 
+
 - Computational Precision Medicine (Clinical Science)
 - Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
 
@@ -37,7 +37,7 @@ Technique Interests:
 
 #### Twitter: [@danieljgmez](https://twitter.com/danieljgmez) 
 #### LinkedIn: [/in/djgomez-gtc/](https://www.linkedin.com/in/djgomez-gtc) 
-### Mastodon: [@danielgomez@mastodon.social](https://mastodon.social/@danielgomez)]
+### Mastodon: [@danielgomez@mastodon.social](https://mastodon.social/@danielgomez)
 
 ### Skills
 
