@@ -2,8 +2,8 @@
 
 My personal webiste is <a href="https://www.danieljgomez.net">here</a>.
 
-- 🔭 My graduate studies in MCB and research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Cancer, Infectious Disease, Bioengineering, Structural Biology, and Genetics.
-- Presently, I am doing my thesis research in Multiomics and Molecular Exercise Physiology and Precision Exercise Medicine. 
+- 🔭 My graduate studies is in Systems Genetics (MCB/CMB) and research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Cancer, Infectious Disease, Bioengineering, Structural Biology, and Genetics.
+- Presently, I am doing my thesis research in Exercise Genetics. 
 
 Research Interests:
 - Exerkines and Exercise Responsomes
@@ -36,7 +36,7 @@ Technique Interests:
 
 
 #### Twitter: [@danieljgmez](https://twitter.com/danieljgmez) 
-#### LinkedIn: [/in/djgomez-gtc/](https://www.linkedin.com/in/djgomez-gtc) 
+#### LinkedIn: [/in/djgomez-gtc/](https://www.linkedin.com/in/danieljgomez1) 
 ### Mastodon: [@danielgomez@mastodon.social](https://mastodon.social/@danielgomez)
 
 ### Skills
@@ -62,7 +62,6 @@ Technique Interests:
 - Gel Electrophoresis (DNA and Protein (SDS-PAGE))
 - Protein concentration assays (e.g. Bradford assay)
 
-
 - Tissue (in situ) experiments (immunohistochemistry, in situ hybridization)
 - Surgical methods in whole animal (in toto) to organ isolation (ex vivo), brain tumor resection
 - Machine Learning & Generative AI
@@ -81,7 +80,7 @@ Technique Interests:
 - Cardiology
 	
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
-- Scientist
+- Research Scientist
 - Research Associate
 - Computational Clinical Scientist
 - Computational Biologist
@@ -89,13 +88,11 @@ Technique Interests:
 - Molecular Biologist
 
 ## Hobbies
-- Playlist curating (DJ)
 - Exercising (strength and functional training) (cardiovascular actviity, circuit training)
 - Reading, Listening to Audiobooks and Podcasts
+- Playlist curating (DJ)
 - Writing (Creative and Technical)
-- Digital Art
 - Web design, Web3, and App development
-
 	
 </html>
 
