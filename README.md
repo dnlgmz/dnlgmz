@@ -14,10 +14,12 @@ Research Interests:
 - Molecular Bioengineering, Nanotechnology, Nanomedicine, and Cell and Gene Thereapy
 
 Technique Interests:
-- Genomics, Biological Modeling, Drug Development
-- Data visualization, Pteoomics, Metabolomics
+- Genomics and Proteomics, Metabolomics (multiomics), Structural Variations and Predictions
+- Systems Biology
+- Biological Modeling and Evaluation, Drug Development
+- Data visualization, Data analysis, Data mining
 - Biological and Disease Modeling (AI/ML/DL)
-- Computational biology, Data mining
+- Computational biology 
 - Spatial Multi-Omics and Multiplex Imaging
 - Single-cell biology (scATACseq, scRNAseq, snRNAseq, etc)
 - Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
