@@ -36,7 +36,7 @@ Technique Interests:
 
 
 #### Twitter: [@danieljgmez](https://twitter.com/danieljgmez) 
-#### LinkedIn: [/in/djgomez-gtc/](https://www.linkedin.com/in/danieljgomez1) 
+#### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 ### Mastodon: [@danielgomez@mastodon.social](https://mastodon.social/@danielgomez)
 
 ### Skills
