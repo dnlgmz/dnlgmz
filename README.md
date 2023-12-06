@@ -9,25 +9,20 @@ Research Interests:
 - Exerkines and Exercise Responsomes
 - Mechanisms that underlie the benefits of exercise (exercise science research)
 - Exercise Biochemistry and Exercise Molecular Biology
-
-- Computational Precision Medicine (Clinical Science)
+- Precision Medicine
 - Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
-
-- Cancer Neuroscience
-- Biological cryogenic electron microscopy and tomography 
-- Clinical Neuroimmunology
-- Tumors Immune Microenvironments (TiME)
-- Molecular Bioengineering, Nanotechnology, Nanomedicine
-
-
+- Molecular Bioengineering, Nanotechnology, Nanomedicine, and Cell and Gene Thereapy
 
 Technique Interests:
+- Genomics, Biological Modeling, Drug Development
+- Data visualization, Pteoomics, Metabolomics
+- Biological and Disease Modeling (AI/ML/DL)
+- Computational biology, Data mining
 - Spatial Multi-Omics and Multiplex Imaging
 - Single-cell biology (scATACseq, scRNAseq, snRNAseq, etc)
 - Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
 - Spatial analysis of tissue architecture & cellular niches
 - Annotating spatially resolved single-cell data by spatial cell learning
-- Surgical Data Science (AI, ML, DL, RL) and Deep Medicine
 - Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
 - Neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls)
 - multimodal neuronavigation 
@@ -48,37 +43,26 @@ Technique Interests:
 - Basic Lab & Safety (GMP, BBP, IRB)
 - Cell viability assays (whole blood)
 
-- Funcational assay and experimental design
-
+- Funcational assay development and experimental design
+- Sequence analysis
 - DNA isolation
 - PCR (qPCR), Sequencing (Sanger, capillary, NGS), & Fragment Analysis
-
+- Phylogenetics
 - Plasmid Minipreps
 - RNA isolation
-
 - Protein Purifcation
 - Protein Harvesting
-
 - Gel Electrophoresis (DNA and Protein (SDS-PAGE))
 - Protein concentration assays (e.g. Bradford assay)
-
 - Tissue (in situ) experiments (immunohistochemistry, in situ hybridization)
-- Surgical methods in whole animal (in toto) to organ isolation (ex vivo), brain tumor resection
+- Surgical methods in whole animal (in toto) to organ isolation (ex vivo), brain tumor resection and dissections
 - Machine Learning & Generative AI
 - Deep Learning, Reinforcement Learning
 - Processing large data sets
+- Neural networks
 - Data Analysis 
-- Data Visualization
-- Data Wrangling
-- Mathematics
-- Programming
 - Big Data and Omics
-- Software Engineering
-- Cancer Biology
-- Immunology
-- Neurology
-- Cardiology
-	
+
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - Research Scientist
 - Research Associate
