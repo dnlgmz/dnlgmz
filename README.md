@@ -3,7 +3,7 @@
 My personal webiste is <a href="https://www.danieljgomez.net">here</a>.
 
 - 🔭 My graduate studies is in Systems Genetics (MCB/CMB) and research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Cancer, Infectious Disease, Bioengineering, Structural Biology, and Genetics.
-- Presently, I am doing my thesis research in Exercise Genetics. 
+- Presently, I am doing my thesis research in Genomics and Biology of Exercise. 
 
 Research Interests:
 - Exerkines and Exercise Responsomes
