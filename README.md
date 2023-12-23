@@ -2,20 +2,20 @@
 
 My personal webiste is <a href="https://www.danieljgomez.net">here</a>.
 
-- 🔭 My graduate studies is in Computational Biology and Systems Bioinformatics (CBSB) and research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Cancer, Infectious Disease, Bioengineering, Structural Biology, and Genetics.
+- 🔭 My graduate studies is in Computational Multiomics and Bioinformatics (CMB) and my research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Cancer Biology, Infectious Disease, Bioengineering, Structural Biology, and now Genetics.
 - Presently, I am doing my thesis research in Exercise multiomics and network biology. 
 
 Research Interests:
-- Exerkines and Exercise Responsomes
+- Exerkines and Exercise
 - Mechanisms that underlie the benefits of exercise (exercise science research)
-- Exercise Biochemistry and Exercise Molecular Biology
+- Exercise Biochemistry, Molecular Biology, and Physiology
 - Precision Medicine to Network Medicine
 - Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
 - Molecular Bioengineering, Nanotechnology, Nanomedicine, and Cell and Gene Thereapy
 
 Technique Interests:
 - Genomics and Proteomics, Metabolomics (multiomics), Structural Variations and Predictions
-- Systems Biology
+- Systems Biology and Applications 
 - Biological Modeling and Evaluation, Drug Development
 - Data visualization, Data analysis, Data mining
 - Biological and Disease Modeling (AI/ML/DL)
@@ -68,9 +68,10 @@ Technique Interests:
 
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - Research Assistant/Associate/Scientist
+- Data Science Engineer 
+- Molecular Cell Biologist 
 - Precision bioinformatician 
 - Computational Biologist
-- Bioinformatitian II
 
 ## Hobbies
 - Exercising (strength and functional training) (cardiovascular actviity, circuit training)
