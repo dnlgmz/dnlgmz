@@ -2,8 +2,8 @@
 
 My personal webiste is <a href="https://www.danieljgomez.net">here</a>.
 
-- 🔭 My graduate studies is in Computational Multiomics and Bioinformatics (CMB) and my research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Cancer Biology, Infectious Disease, Bioengineering, Structural Biology, and now Genetics.
-- Presently, I am doing my thesis research in Exercise multiomics and network biology. 
+- 🔭 My present graduate studies is in Bioinformatics and Computational Biology (BCB) and my previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Cancer Biology, Infectious Disease, Bioengineering, Structural Biology, and now Genetics.
+- Presently, I am doing my thesis research in Exercise multiomics, network biology, and molecular mapping. 
 
 Research Interests:
 - Exerkines and Exercise
@@ -27,12 +27,12 @@ Technique Interests:
 - Annotating spatially resolved single-cell data by spatial cell learning
 - Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
 - Neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls)
-- multimodal neuronavigation 
-- Morphology and imaging (histology, live-cell, in vivo microscopy)
+- multimodal neuronavigation for neurosurgery, ie BrainLab
+- Morphology and imaging (histology, live-cell, all kinds of microscopy)
 
 
 
-#### Twitter: [@danieljgmez](https://twitter.com/danieljgmez) 
+#### Twitter: [@dansgomez](https://twitter.com/dansgomez) 
 #### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 ### Mastodon: [@danielgomez@mastodon.social](https://mastodon.social/@danielgomez)
 
@@ -69,14 +69,15 @@ Technique Interests:
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - Research Assistant/Associate/Scientist
 - Data Science Engineer 
-- Molecular Cell Biologist 
+- Molecular Biologist / Genome Engineer 
 - Precision bioinformatician 
 - Computational Biologist
 
 ## Hobbies
-- Exercising (strength and functional training) (cardiovascular actviity, circuit training)
+- Exercising (strength and functional training) (cardiovascular actviity, circuit training) working out
 - Reading, Listening to Audiobooks and Podcasts
 - Music (DJ) and Movies
+- astrophysics and astrobiology exploration
 	
 </html>
 
