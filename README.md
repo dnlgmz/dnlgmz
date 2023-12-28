@@ -2,7 +2,7 @@
 
 My personal webiste is <a href="https://www.danieljgomez.net">here</a>.
 
-- 🔭 My present graduate studies is in Bioinformatics and Computational Biology (BCB) and my previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Cancer Biology, Infectious Disease, Bioengineering, Structural Biology, and now Genetics.
+- 🔭 My present graduate studies is in Bioinformatics and Computational Systems Biology and my previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Cancer Biology, Infectious Disease, Bioengineering, Structural Biology, and now Genetics.
 - Presently, I am doing my thesis research in Exercise multiomics, network biology, and molecular mapping. 
 
 Research Interests:
