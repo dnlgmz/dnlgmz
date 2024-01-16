@@ -33,7 +33,7 @@ Technique Interests:
 
 
 
-#### Twitter: [@danieljgomez810](https://twitter.com/danieljgomez) 
+#### Twitter: [@dnagomezbiome](https://twitter.com/dnagomezbiome) 
 #### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 ### Mastodon: [@danielgomez@mastodon.social](https://mastodon.social/@danielgomez)
 
