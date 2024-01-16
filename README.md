@@ -7,12 +7,14 @@ My personal webiste is <a href="https://www.danieljgomez.net">here</a>.
 - Presently, I am doing my thesis research in Exercise multiomics, network biology, and molecular mapping. 
 
 Research Interests:
+- Precision Bioinformatics
 - Exerkines and Exercise
 - Mechanisms that underlie the benefits of exercise (exercise science research)
 - Exercise Biochemistry, Molecular Biology, and Physiology
 - Precision Medicine to Network Medicine
 - Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
 - Molecular Bioengineering, Nanotechnology, Nanomedicine, and Cell and Gene Thereapy
+- Computational Medicine Physiology
 
 Technique Interests:
 - Genomics and Proteomics, Metabolomics (multiomics), Structural Variations and Predictions
@@ -71,7 +73,7 @@ Technique Interests:
 - Research Assistant/Associate/Scientist
 - Data Science Engineer 
 - Molecular Biologist / Genome Engineer 
-- Precision bioinformatician 
+- Clinical Bioinformatician 
 - Computational Biologist
 
 ## Hobbies
