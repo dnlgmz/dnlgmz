@@ -35,7 +35,7 @@ Technique Interests:
 
 
 
-#### Twitter: [@dgomezbio](https://twitter.com/dgomezbio) 
+#### Twitter: [@danieljgomezcmb](https://twitter.com/danieljgomezcmb) 
 #### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 ### Mastodon: [@danielgomez@mastodon.social](https://mastodon.social/@danielgomez)
 
@@ -68,6 +68,7 @@ Technique Interests:
 - Neural networks
 - Data Analysis 
 - Big Data and Omics
+- Single Cell Research and Spatial Multiomics
 
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - Research Assistant/Associate/Scientist
@@ -78,9 +79,10 @@ Technique Interests:
 
 ## Hobbies
 - Exercising (strength and functional training) (cardiovascular actviity, circuit training) working out
+- Hiking, Cycling, and Climbing
 - Reading, Listening to Audiobooks and Podcasts
 - Music (DJ) and Movies
-- astrophysics and astrobiology exploration
+- Astrophysics and Astrobiology exploration
 	
 </html>
 
