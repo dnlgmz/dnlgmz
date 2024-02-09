@@ -2,16 +2,22 @@
 
 My personal webiste is <a href="https://www.danieljgomez.org">here</a>.
 
-- 🔭 My present graduate studies is in Multiomics, Genome Bioinformatics, and Computational Biology and my previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, and Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Cancer Biology, Infectious Disease, Bioengineering, and Structural Biology.
+- 🔭 My present graduate studies is in Multiomics, Genome Bioinformatics, and Computational Biology and my previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Structural Biology, Infectious Disease, Bioengineering, and Cancer Biology.
 
-- Presently, I am doing my thesis research in Exercise multiomics, network biology, and molecular mapping. 
+- Presently, I am doing my thesis research in Exercise multiomics, single-cell biology and spatial multi-omics, and molecular interaction mapping. 
 
-Research Interests:
+Research:
 - Precision Bioinformatics
 - Exerkines and Exercise
 - Mechanisms that underlie the benefits of exercise (exercise science research)
 - Exercise Biochemistry, Molecular Biology, and Physiology
 - Precision Medicine to Network Medicine
+- Computational biology 
+- Spatial Multi-Omics and Multiplex Imaging
+- Single-cell biology (scATACseq, scRNAseq, snRNAseq, etc)
+- Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
+- Spatial analysis of tissue architecture & cellular niches
+- Annotating spatially resolved single-cell data by spatial cell learning
 - Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
 - Molecular Bioengineering, Nanotechnology, Nanomedicine, and Cell and Gene Thereapy
 - Computational Medicine Physiology
@@ -22,20 +28,15 @@ Technique Interests:
 - Biological Modeling and Evaluation, Drug Development
 - Data visualization, Data analysis, Data mining
 - Biological and Disease Modeling (AI/ML/DL)
-- Computational biology 
-- Spatial Multi-Omics and Multiplex Imaging
-- Single-cell biology (scATACseq, scRNAseq, snRNAseq, etc)
-- Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
-- Spatial analysis of tissue architecture & cellular niches
-- Annotating spatially resolved single-cell data by spatial cell learning
 - Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
+- Neurotherapeutics discovery
 - Neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls)
 - multimodal neuronavigation for neurosurgery, ie BrainLab
 - Morphology and imaging (histology, live-cell, all kinds of microscopy)
 
 
 
-#### Twitter: [@danieljgomezcmb](https://twitter.com/danieljgomezcmb) 
+#### Twitter: [@dan_j_gomez](https://twitter.com/dan_j_gomez) 
 #### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 ### Mastodon: [@danielgomez@mastodon.social](https://mastodon.social/@danielgomez)
 
@@ -72,7 +73,7 @@ Technique Interests:
 
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
 - Research Assistant/Associate/Scientist
-- Data Science Engineer 
+- Biomedical Data Science Engineer 
 - Molecular Biologist / Genome Engineer 
 - Clinical Bioinformatician 
 - Computational Biologist
