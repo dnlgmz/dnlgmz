@@ -1,6 +1,6 @@
 ### Hello ✨ I am Daniel!
 
-My personal webiste is <a href="https://www.danieljgomez.org">here</a>.
+My webiste is <a href="https://www.danieljgomez.org">here</a>.
 
 - 🔭 My present graduate studies is in Multiomics, Genome Bioinformatics, and Computational Biology and my previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Structural Biology, Infectious Disease, Bioengineering, and Cancer Biology.
 
