@@ -4,7 +4,7 @@ My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a
 
 - 🔭 My present graduate studies is in Multiomics, Genome Bioinformatics, and Computational Biology and my previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Structural Biology, Infectious Disease, Bioengineering, and Cancer Biology.
 
-- Presently, I am doing my thesis research in exercise medicine, multiomics, creating spatial maps at the single-cell level.
+- Presently, I am doing my thesis research in exercise medicine, multiomics, creating spatial maps at single-cell resolution.
 
 Research:
 - Precision Bioinformatics
