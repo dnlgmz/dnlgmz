@@ -34,7 +34,7 @@ Technique Interests:
 
 
 
-#### Twitter: [@dan_j_gomez](https://twitter.com/danieljgomezs) 
+#### Twitter: [@danieljgomezs](https://twitter.com/danieljgomezs) 
 #### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 
 ### Skills
