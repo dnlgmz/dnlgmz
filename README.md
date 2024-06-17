@@ -14,13 +14,13 @@ Research:
 - Precision Medicine to Network Medicine
 - Computational biology 
 - Spatial Multi-Omics and Multiplex Imaging
-- Single-cell biology (scATACseq, scRNAseq, snRNAseq, etc)
+- Single-cell sequencing (scATACseq, sc/snRNAseq, CITE-seq, etc)
 - Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
 - Spatial analysis of tissue architecture & cellular niches
 - Annotating spatially resolved single-cell data by spatial cell learning
 - Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
 - Molecular Bioengineering, Nanotechnology, Nanomedicine, and Cell and Gene Thereapy
-- Computational Medicine Physiology
+- Cellular Physiology Contextualization 
 
 Technique Interests:
 - Genomics and Proteomics, Metabolomics (multiomics), Structural Variations and Predictions
@@ -30,9 +30,7 @@ Technique Interests:
 - Biological and Disease Modeling (AI/ML/DL)
 - Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
 - Neurotherapeutics discovery
-- Neuroimmune connectome, neuropathology and neuroimaging modalities (PET, fMRI BOLD, dMRI, DWI, FLAIR, DTI, PWI, MEG, HARDI, Q-balls)
-- multimodal neuronavigation for neurosurgery, ie BrainLab
-- Morphology and imaging (histology, live-cell, all kinds of microscopy)
+- Morphology and imaging (histology, whole slide imaging, all kinds of microscopy)
 
 
 
@@ -71,17 +69,17 @@ Technique Interests:
 - Single Cell Research and Spatial Multiomics
 
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
-- Research Assistant/Associate/Scientist
-- Biomedical Data Science Engineer 
-- Molecular Biologist / Genome Engineer 
-- Clinical Bioinformatician 
+- Biomedical Researcher
+- Biomedical Data Scientist
+- Molecular Biologist + Genome Engineer 
+- Precision Bioinformatician 
 - Computational Biologist
 
 ## Hobbies
 - Exercising (strength and functional training) (cardiovascular actviity, circuit training) working out
 - Hiking, Cycling, and Climbing
 - Reading, Listening to Audiobooks and Podcasts
-- Music (DJ) and Movies
+- Music and Movies
 - Astrophysics and Astrobiology exploration
 	
 </html>
