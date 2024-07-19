@@ -2,9 +2,11 @@
 
 My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://gomezdj.github.io">GitHub Portfolio</a>.
 
-- 🔭 My present graduate studies is in Multiomics, Genome Bioinformatics, and Computational Biology and my previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Structural Biology, Infectious Disease, Bioengineering, and Cancer Biology.
+- 🔭 My present graduate studies is in Genetics and Genomics, Optical Science, Multiomics, Genome Bioinformatics, Immunometabolism and Computational Biology
+- 
+- My previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Structural Biology, Infectious Disease, Bioengineering, and Cancer Biology.
 
-- Presently, I am doing my thesis research in exercise medicine, multiomics, creating interorgan spatial maps at single-cell resolution.
+- Currently, I am doing my thesis research in exercise medicine, multiomics, interorgan communication, creating interactive signaling networks that build interorgan spatial maps at single-cell resolution that display measured performance of exerkines in health, resilence and disease.
 
 You can access read my papers on [Google Scholar](https://scholar.google.com/citations?user=BcI2h_IAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-8739-5062](https://orcid.org/0000-0002-5443-1813))
 
