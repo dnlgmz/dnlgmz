@@ -40,7 +40,6 @@ Technique Interests:
 #### LinkedIn: [/in/danieljgomezsci/](https://www.linkedin.com/in/danieljgomezsci) 
 
 ### Skills
-
 - Data Science and Cloud Computing of Precision Medicine
 - Bioinformatics and Computational Biology Tools
 - Data Analysis and Data Visualization
@@ -48,7 +47,6 @@ Technique Interests:
 - Statistical analysis and computing
 - Basic Lab & Safety (GMP, BBP, IRB)
 - Cell viability assays (whole blood)
-
 - Funcational assay development and experimental design
 - Sequence analysis
 - DNA isolation
@@ -78,7 +76,7 @@ Technique Interests:
 - Computational Biologist
 
 ## Hobbies
-- Exercising (strength and functional training) (cardiovascular actviity, circuit training) working out
+- Exercising (strength and functional training) (cardiovascular activity, circuit training) working out
 - Hiking, Cycling, and Climbing
 - Reading, Listening to Audiobooks and Podcasts
 - Music and Movies
