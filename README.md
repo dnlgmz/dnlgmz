@@ -6,6 +6,8 @@ My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a
 
 - Presently, I am doing my thesis research in exercise medicine, multiomics, creating interorgan spatial maps at single-cell resolution.
 
+You can access read my papers on [Google Scholar](https://scholar.google.com/citations?user=BcI2h_IAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-8739-5062](https://orcid.org/0000-0002-5443-1813))
+
 Research:
 - Precision Bioinformatics
 - Exerkines and Exercise
