@@ -2,7 +2,7 @@
 
 My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://gomezdj.github.io">GitHub Portfolio</a>.
 
-- 🔭 My present graduate studies is in AI/ML, and LLMs in Genetics and Genomics, Spatial Biology, Optical Science, Multiomics, Genome Bioinformatics, Immunometabolism and Computational Biology
+- 🔭 My present graduate studies is in Deep Learning in Genomics and Biomedicine, AI/ML and LLMs in Genetics and Genomics, Spatial Biology, Multiomics, Translational Bioinformatics, Metabolomics, Immunology and Computational Biology
 
 - My previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Structural Biology, Infectious Disease, Bioengineering, and Cancer Biology.
 
