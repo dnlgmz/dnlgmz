@@ -18,7 +18,7 @@ Research:
 - Precision Medicine to Network Medicine
 - Computational biology 
 - Spatial Multi-Omics and Multiplex Imaging
-- Single-cell sequencing (scATACseq, sc/snRNAseq, CITE-seq, etc)
+- Single-cell sequencing (sc/snATACseq, sc/snRNAseq, CITE-seq, etc)
 - Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
 - Spatial analysis of tissue architecture & cellular niches
 - Annotating spatially resolved single-cell data by spatial cell learning
