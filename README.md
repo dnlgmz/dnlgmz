@@ -1,4 +1,4 @@
-### Hello ✨ I am Daniel Joseph Gomez!
+### Hello ✨ I am Daniel J. Gomez!
 
 My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://gomezdj.github.io">GitHub Portfolio</a>.
 
