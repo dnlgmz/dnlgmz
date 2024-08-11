@@ -1,10 +1,8 @@
-### Hello ✨ I am Daniel J. Gomez!
+### Hello ✨ I am Daniel J. Gomez, a Bioinformatics Scientist!
 
 My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://gomezdj.github.io">GitHub Portfolio</a>.
 
-- 🔭 My present graduate studies is in AI/ML in Precision Medicine, Genomics and Biomedicine, Genetics and Genomics, Spatial Biology, Multiomics, Translational Medicine, Multiomics, Immunology, Pathogenomics and Computational Biology
-
-- My previous research has been in multiple areas and fields of Medicine: Tropical Medicine, Medical Microbiology, Pharmacology, Cell and Molecular Biology, Microbiology and Immunology, Structural Biology, Infectious Disease, Bioengineering, and Cancer Biology.
+- 🔭 My present graduate studies is in Single-Cell Spatial Profiling, AI/ML in Precision Medicine, Genomics and Biomedicine, Genetics, Spatial Biology, Multiomics, Translational Medicine, Multiomics, Immunology, Pathogenomics and Computational Biology
 
 - Currently, I am doing my thesis research in exercise medicine, multiomics, interorgan communication, creating interactive signaling networks that build interorgan spatial genomic maps at super-resolution, near-single-cell resolution, and single-cell resolution that display measured performance of exerkines in health, resilence and disease.
 
