@@ -2,7 +2,7 @@
 
 My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://gomezdj.github.io">GitHub Portfolio</a>.
 
-- 🔭 My present graduate studies is in Single-Cell Spatial Profiling, AI/ML in Precision Medicine, Genomics and Biomedicine, Genetics, Spatial Biology, Multiomics, Translational Medicine, Multiomics, Immunology, Pathogenomics and Computational Biology
+- 🔭 My present graduate studies is in Single-Cell Spatial Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Genomics and Biomedicine, Genetics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology
 
 - Currently, I am doing my thesis research in exercise medicine, multiomics, interorgan communication, creating interactive signaling networks that build interorgan spatial genomic maps at super-resolution, near-single-cell resolution, and single-cell resolution that display measured performance of exerkines in health, resilence and disease.
 
