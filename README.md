@@ -12,13 +12,14 @@ Research:
 - Precision Bioinformatics
 - Exerkines and Exercise
 - Mechanisms that underlie the benefits of exercise (exercise science research)
-- Exercise Biochemistry, Molecular Biology, and Physiology
+- Exercise Genetics, Biochemistry, Molecular Biology, and Physiology
 - Precision Medicine to Network Medicine
-- Computational biology 
-- Spatial Multi-Omics and Multiplex Imaging
+- Computational biology and whole-organism models
+- Spatial Multi-Omics and Multiplex Imaging 
+- Histology and histopathology (Pathogenetics) 
 - Single-cell sequencing (sc/snATACseq, sc/snRNAseq, CITE-seq, etc)
 - Developing analytical tools to harness both high-dimensional single-cell phenotype data and spatial info
-- Spatial analysis of tissue architecture & cellular niches
+- Spatial analysis of tissue architecture, neighborhood coordination and proximity analysis (cellular niches/areas)
 - Annotating spatially resolved single-cell data by spatial cell learning
 - Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
 - Molecular Bioengineering, Nanotechnology, Nanomedicine, and Cell and Gene Thereapy
@@ -31,9 +32,8 @@ Technique Interests:
 - Data visualization, Data analysis, Data mining
 - Biological and Disease Modeling (AI/ML/DL)
 - Molecular neuroimmune-pathology, psychoneuroimmunology (PNI), neuroimmunopharmacology (NIP)
-- Neurotherapeutics discovery
-- Morphology and imaging (histology, whole slide imaging, all kinds of microscopy)
-
+- Neurotherapeutics and Nanotherapeutics discovery
+- Morphology and imaging (histology, whole slide imaging, multiplexing)
 
 
 #### X: [@danieljgomezsci](https://x.com/danieljgomezsci) 
@@ -69,11 +69,7 @@ Technique Interests:
 - Single Cell Research and Spatial Multiomics
 
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
-- Biomedical Researcher
-- Biomedical Data Scientist
-- Molecular Biologist + Genome Engineer 
-- Precision Bioinformatician 
-- Computational Biologist
+
 
 ## Hobbies
 - Exercising (strength and functional training) (cardiovascular activity, circuit training) working out
