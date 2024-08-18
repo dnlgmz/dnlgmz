@@ -41,35 +41,25 @@ Technique Interests:
 
 ### Skills
 - Data Science and Cloud Computing of Precision Medicine
-- Bioinformatics and Computational Biology Tools
+- Bioinformatics
 - Data Analysis and Data Visualization
-- Computational Genomics and Genetics 
+- Algorithm Development
+- Computational Biology
 - Statistical analysis and computing
-- Basic Lab & Safety (GMP, BBP, IRB)
-- Cell viability assays (whole blood)
 - Funcational assay development and experimental design
 - Sequence analysis
 - DNA isolation
-- PCR (qPCR), Sequencing (Sanger, capillary, NGS), & Fragment Analysis
 - Phylogenetics
-- Plasmid Minipreps
-- RNA isolation
-- Protein Purifcation
-- Protein Harvesting
-- Gel Electrophoresis (DNA and Protein (SDS-PAGE))
-- Protein concentration assays (e.g. Bradford assay)
 - Tissue (in situ) experiments (immunohistochemistry, in situ hybridization)
-- Surgical methods in whole animal (in toto) to organ isolation (ex vivo), brain tumor resection and dissections
 - Machine Learning & Generative AI
 - Deep Learning, Reinforcement Learning
 - Processing large data sets
 - Neural networks
-- Data Analysis 
 - Big Data and Omics
 - Single Cell Research and Spatial Multiomics
 
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
-
+Deep Generative Modeling (DGM)
 
 ## Hobbies
 - Exercising (strength and functional training) (cardiovascular activity, circuit training) working out
