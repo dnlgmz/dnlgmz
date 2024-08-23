@@ -1,4 +1,4 @@
-### Hello ✨ I am Daniel J. Gomez, a Bioinformatics Scientist!
+### Hello ✨ I am Daniel J. Gomez, a Computational Biologist and Bioinformatician!
 
 My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://danielgomez1988.github.io">GitHub Portfolio</a>.
 
