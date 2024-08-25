@@ -36,8 +36,8 @@ Technique Interests:
 - Morphology and imaging (histology, whole slide imaging, multiplexing)
 
 
-#### X: [@danieljgomezsci](https://x.com/dan0gomez) 
-#### LinkedIn: [/in/danieljgomezsci/](https://www.linkedin.com/in/danieljgomezsci) 
+#### X: [@danieljgomezsci](https://x.com/dangomezsano) 
+#### LinkedIn: [/in/danieljgomezsci/](https://www.linkedin.com/in/dgdanieljgomez) 
 
 ### Skills
 - Data Science and Cloud Computing of Precision Medicine
