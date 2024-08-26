@@ -1,6 +1,6 @@
 ### Hello ✨ I am Daniel J. Gomez, a 👨‍💻 Bioinformatician 👨‍🔬!
 
-My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://gomezdj.github.io">GitHub Portfolio</a>.
+My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://djgomezr.github.io">GitHub Portfolio</a>.
 
 - 🔭 My present graduate studies is in Spatially Resolved Technologies like Single-Cell Spatial Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
 
