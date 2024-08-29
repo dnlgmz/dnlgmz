@@ -1,6 +1,6 @@
 ### Hello ✨ I am Daniel J. Gomez, a 👨‍💻 Bioinformatician 👨‍🔬!
 
-My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://djgomezr.github.io">GitHub Portfolio</a>.
+My website is <a href="https://www.danieljgomez.org"> here</a> and this is my <a href="https://danieljosephgomez.github.io">GitHub Portfolio</a>.
 
 - 🔭 My present graduate studies is in Spatially Resolved Technologies like Single-Cell Spatial Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
 
@@ -36,8 +36,8 @@ Technique Interests:
 - Morphology and imaging (histology, whole slide imaging, multiplexing)
 
 
-#### X: [@danieljgomezsci](https://x.com/dangomezsano) 
-#### LinkedIn: [/in/danieljgomezsci/](https://www.linkedin.com/in/dgdanieljgomez) 
+#### X: [@dan_j_gomez](https://x.com/dan_j_gomez) 
+#### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 
 ### Skills
 - Data Science and Cloud Computing of Precision Medicine
@@ -59,14 +59,13 @@ Technique Interests:
 - Single Cell Research and Spatial Multiomics
 
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
-Deep Generative Modeling (DGM)
+- Biomedical Data Scientist
 
 ## Hobbies
-- Exercising (strength and functional training) (cardiovascular activity, circuit training) working out
+- Working out (resistance training, cardiovascular exercise)
 - Hiking, Cycling, and Climbing
 - Reading, Listening to Audiobooks and Podcasts
 - Music and Movies
-- Astrophysics and Astrobiology exploration
-	
+   
 </html>
 
