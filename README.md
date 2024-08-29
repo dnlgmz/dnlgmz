@@ -1,4 +1,4 @@
-### Hello ✨ I am Daniel J. Gomez, a 👨‍💻 Bioinformatician 👨‍🔬!
+### Hello ✨ I am Daniel J. Gomez, a Visionary 👨‍💻 Bioinformatician 👨‍🔬!
 
 My <a href="https://danieljosephgomez.github.io">Academic website</a> is here for your viewing pleasure.
 
