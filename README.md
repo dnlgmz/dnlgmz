@@ -1,5 +1,14 @@
 ### Hello ✨ I am Daniel J. Gomez, a visionary 👨‍💻 Bioinformatician 👨‍🔬!
 
+- 👋 Hi, I’m Daniel J. Gomez
+- 👀 I’m interested in computational biology, precision and evidence-based medicine.
+- 🌱 I’m currently learning genetics, single-cell and spatial biology.
+- 💞️ I’m looking to collaborate on big data omics.
+- 📫 How to reach me dangomez245@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I won 1st, 2nd, 3rd place in grappling/jiu-jitsu competitions. 
+
+
 My <a href="https://danieljosephgomez.github.io">Academic website</a> is here for your viewing pleasure.
 
 - 🔭 My present graduate studies is in Spatially Resolved Technologies like Single-Cell Spatial Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
