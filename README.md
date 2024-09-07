@@ -1,21 +1,21 @@
 ### Hello ✨ I am Daniel J. Gomez, a visionary 👨‍💻 Bioinformatician 👨‍🔬!
 
 - 👋 Hi, I’m Daniel J. Gomez
-- 👀 I’m interested in computational biology, precision and evidence-based medicine.
+- 👀 I’m interested in computational biology, evidence-based and precision medicine.
 - 🌱 I’m currently learning genetics, single-cell and spatial biology.
-- 💞️ I’m looking to collaborate on big data omics.
+- 💞️ I’m looking to collaborate on big data omics for All of Us Researchers.
 - 📫 How to reach me sfdanielgomez@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I won 1st, 2nd, 3rd place in grappling/jiu-jitsu competitions. 
 
 
-My <a href="https://danieljosephgomez.github.io">Academic website</a> is here for your viewing pleasure.
+My <a href="https://danieljosephgomez.github.io">Academic website</a> is here for your viewing pleasure 🧭 🌎.
 
-- 🔭 My present graduate studies is in Spatially Resolved Technologies like Single-Cell Spatial Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
+- 🗺️ My present graduate studies is in Spatially Resolved Technologies like Single-Cell Spatial Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
 
 - Currently, I am doing my thesis research in exerkine mapping in preclinical models and the human body, exercise and physical activity, multiomics, interorgan communication, signal transduction networks, and building multiscale spatial atlases of interorgan crosstalk at single-cell resolution, near-single cell super-resolution, and connect cell-cell interactions and the functions inside the cell that display exerkines measured in health, resilence and disease.
 
-You can access read my papers on [Google Scholar](https://scholar.google.com/citations?user=BcI2h_IAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-8739-5062](https://orcid.org/0000-0002-5443-1813))
+You can access and read my papers on [Google Scholar](https://scholar.google.com/citations?user=BcI2h_IAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-8739-5062](https://orcid.org/0000-0002-5443-1813))
 
 Research:
 - Precision Bioinformatics
