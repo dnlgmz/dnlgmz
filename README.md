@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Daniel J. Gomez
 - 👀 I’m interested in computational biology, evidence-based and precision medicine.
-- 🌱 I’m currently learning genetics, single-cell and spatial biology.
+- 🌱 I’m currently learning genetics, single-cell and spatial multiomics.
 - 💞️ I’m looking to collaborate on big data omics for All of Us Researchers.
 - 📫 How to reach me sfdanielgomez@gmail.com
 - 😄 Pronouns: he/him/his
