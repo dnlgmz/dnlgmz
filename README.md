@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Daniel J. Gomez
 - 👀 I’m interested in computational biology, evidence-based and precision medicine.
 - 🌱 I’m currently learning genetics, single-cell and spatial multiomics.
-- 💞️ I’m looking to collaborate on big data omics for All of Us Researchers.
+- 💞️ I’m looking to collaborate on big data omics for MoTrPAC, HuBMAP, HTAN, PsychENCODE, and All of Us Researchers.
 - 📫 How to reach me sfdanielgomez@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I won 1st, 2nd, 3rd place in grappling/jiu-jitsu competitions. 
