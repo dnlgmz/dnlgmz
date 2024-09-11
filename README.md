@@ -1,4 +1,4 @@
-### Hello ✨ I am Daniel J. Gomez, a visionary 👨‍💻 Bioinformatician 👨‍🔬!
+### Hello ✨ I am Daniel J. Gomez, a visionary 👨‍💻 Molecular Biologist and Bioinformatician 👨‍🔬!
 
 - 👋 Hi, I’m Daniel J. Gomez
 - 👀 I’m interested in computational biology, evidence-based and precision medicine.
