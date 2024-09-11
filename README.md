@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I won 1st, 2nd, 3rd place in grappling/jiu-jitsu competitions. 
 
 
-My <a href="https://danieljosephgomez.github.io">Academic website</a> is here for your viewing pleasure 🧭 🌎.
+My <a href="https://gomez-d.github.io">Academic website</a> is here for your viewing pleasure 🧭 🌎.
 
 - 🗺️ My present graduate studies is in Spatially Resolved Technologies like Single-Cell Spatial Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
 
@@ -45,7 +45,7 @@ Technique Interests:
 - Morphology and imaging (histology, whole slide imaging, multiplexing)
 
 
-#### X: [@dan_j_gomez](https://x.com/dan_j_gomez) 
+#### X: [@danieljgomez28](https://x.com/DanielJGomez28) 
 #### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 
 ### Skills
