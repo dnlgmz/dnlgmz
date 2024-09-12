@@ -45,7 +45,7 @@ Technique Interests:
 - Morphology and imaging (histology, whole slide imaging, multiplexing)
 
 
-#### X: [@danieljgomez28](https://x.com/DanielJGomez28) 
+#### X: [@dan_j_gomez](https://x.com/dan_j_gomez) 
 #### LinkedIn: [/in/danieljgomez1/](https://www.linkedin.com/in/danieljgomez1) 
 
 ### Skills
