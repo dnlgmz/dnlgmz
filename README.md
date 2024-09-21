@@ -55,7 +55,7 @@ Technique Interests:
 - Algorithm Development
 - Computational Biology
 - Statistical analysis and computing
-- Funcational assay development and experimental design
+- Functional assay development and experimental design
 - Sequence analysis
 - DNA isolation
 - Phylogenetics
