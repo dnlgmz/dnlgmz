@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I won 1st, 2nd, 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played clarinet, saxophone, violin, and did academic research in 6 different medical schools (JABSOM, JHUSOM, UCSDSOM, UFCVM, DUCOM).
 
 
-My <a href="https://gomez-d.github.io">Academic website</a> is here for your viewing pleasure 🧭 🌎.
+My <a href="https://gomez-dan.github.io">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
 
 - 🗺️ My present graduate studies is in Spatially Resolved Technologies like Single-Cell Spatial Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
 
