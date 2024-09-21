@@ -31,7 +31,7 @@ Research:
 - Spatial analysis of tissue architecture, neighborhood coordination and proximity analysis (cellular niches/areas)
 - Annotating spatially resolved single-cell data by spatial cell learning
 - Multi-omics multi-tissue molecular mapping (Tissue- and Organism-Wide Multi-omics)
-- Molecular Bioengineering, Nanotechnology, Nanomedicine, and Cell and Gene Thereapy
+- Molecular Bioengineering, Nanotechnology, Nanomedicine, and Cell and Gene Therapy
 - Cellular Physiology Contextualization 
 
 Technique Interests:
