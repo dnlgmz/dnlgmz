@@ -13,7 +13,7 @@ My <a href="https://gomez-d.github.io">Academic website</a> is here for your vie
 
 - 🗺️ My present graduate studies is in Spatially Resolved Technologies like Single-Cell Spatial Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
 
-- Currently, I am doing my thesis research in exerkine mapping in preclinical models and the human body, exercise and physical activity, multiomics, interorgan communication, signal transduction networks, and building multiscale spatial atlases of interorgan crosstalk at single-cell resolution, near-single cell super-resolution, and connect cell-cell interactions with ligand-receptor interactions and their functions inside the cell that display the effect of exerkines measured in health, resilence and disease.
+- Currently, I am doing my thesis research in exerkine mapping in preclinical models and the human body, exercise and physical activity, multiomics, interorgan communication, signal transduction networks, and building multiscale spatial atlases of interorgan crosstalk at single-cell resolution, near-single cell super-resolution, and connect cell-cell interactions with ligand-receptor interactions and their functions inside the cell that display the effect of exerkines measured in health, resilience and disease.
 
 You can access and read my papers on [Google Scholar](https://scholar.google.com/citations?user=BcI2h_IAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-8739-5062](https://orcid.org/0000-0002-5443-1813))
 
@@ -65,10 +65,15 @@ Technique Interests:
 - Processing large data sets
 - Neural networks
 - Big Data and Omics
-- Single Cell Research and Spatial Multiomics
+- Single-cell multiomics and Spatial omics research
 
 <h2>Future Directions &#x1F468;&#x200D;&#x1F4BB;</h2>
+- Principal Advisor/Investigator
 - Biomedical Data Scientist
+- Postdoctoral Fellow
+- PhD Researcher
+- Scientist I/II
+- Research Associate
 
 ## Hobbies
 - Working out (resistance training, cardiovascular exercise)
