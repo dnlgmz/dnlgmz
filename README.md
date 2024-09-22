@@ -11,7 +11,7 @@
 
 My <a href="https://gomez-dan.github.io">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
 
-- 🗺️ My present graduate studies is in Spatially Resolved Technologies like Single-Cell Spatial Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
+- 🗺️ My present graduate studies is in Molecular and Cellular Atlases, Spatially Resolved Transcriptomics. Single-Cell RNA Sequencing, Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
 
 - Currently, I am doing my thesis research in exerkine mapping in preclinical models and the human body, exercise and physical activity, multiomics, interorgan communication, signal transduction networks, and building multiscale spatial atlases of interorgan crosstalk at single-cell resolution, near-single cell super-resolution, and connect cell-cell interactions with ligand-receptor interactions and their functions inside the cell that display the effect of exerkines measured in health, resilience and disease.
 
