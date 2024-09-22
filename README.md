@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Daniel J. Gomez, a researcher at Stanford University School of Medicine (SUSOM).
 - 👀 I’m interested in computational biology, evidence-based and precision medicine.
-- 🌱 I’m currently learning genetics, single-cell and spatial multiomics.
+- 🌱 I’m currently learning cancer genetics and multimodal omics approaches.
 - 💞️ I’m doing big data in basic and translational cancer research for MoTrPAC, HuBMAP, HTAN, PsychENCODE, and All of Us Researchers.
 - 📫 How to reach me sfdanielgomez@gmail.com
 - 😄 Pronouns: he/him/his
