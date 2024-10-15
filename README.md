@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I won 1st, 2nd, 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played clarinet, saxophone, violin, and did academic research in 5 different medical schools and 1 veterinary medical college (JABSOM, JHUSOM, UCSDSOM, SUSOM, DUCOM, UFCVM).
 
 
-My <a href="https://gomez-dan.github.io">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
+My <a href="https://djgomezsantos.github.io">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
 
 - 🗺️ My present graduate studies is in Molecular and Cellular Atlases, Spatially Resolved Transcriptomics. Single-Cell RNA Sequencing, Deep Omics Profiling in Health and Disease, AI/ML Data Science and Cloud Computing in Precision Medicine, Biomedicine, Genetics and Genomics, Multiomics, Translational Medicine, Immunology, Pathogenomics and Computational Biology.
 
