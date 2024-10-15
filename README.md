@@ -6,7 +6,7 @@
 - 💞️ I’m doing big data in basic and translational cancer research for MoTrPAC, HuBMAP, HTAN, PsychENCODE, and All of Us Researchers.
 - 📫 How to reach me sfdanielgomez@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I won 1st, 2nd, 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played clarinet, saxophone, violin, and did academic research in 5 different medical schools and 1 veterinary medical college (JABSOM, JHUSOM, UCSDSOM, SUSOM, DUCOM, UFCVM).
+- ⚡ Fun fact: I won 1st, 2nd, 3rd place in grappling/jiu-jitsu competitions, played football, soccer, volleyball, played clarinet, saxophone, guitar, violin, and did academic research in 5 different medical schools and 1 veterinary medical college (JABSOM, JHUSOM, UCSDSOM, SUSOM, DUCOM, UFCVM).
 
 
 My <a href="https://djgomezsantos.github.io">Academic profile</a> is here for your viewing pleasure 🧭 🌎.
