@@ -18,7 +18,7 @@ My <a href="https://djgomezsantos.github.io">Academic profile</a> is here for yo
 You can access and read my papers on [Google Scholar](https://scholar.google.com/citations?user=BcI2h_IAAAAJ&hl=en) [![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-8739-5062&color=green&style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-8739-5062](https://orcid.org/0000-0002-5443-1813))
 
 Research:
-- Precision Bioinformatics
+- Precision Medicine
 - Exerkines and Exercise
 - Mechanisms that underlie the benefits of exercise (exercise science research)
 - Exercise Genetics, Biochemistry, Molecular Biology, and Physiology
