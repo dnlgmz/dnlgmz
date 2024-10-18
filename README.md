@@ -1,6 +1,6 @@
 ### Hello ✨ I am Daniel Gomez, a visionary 👨‍💻 Molecular Biologist and Bioinformatician 👨‍🔬!
 
-- 👋 Hi, I’m Daniel J. Gomez, a researcher at Stanford University School of Medicine (SUSOM).
+- 👋 Hi, I’m Daniel J. Gomez, a graduate researcher at Stanford University School of Medicine (SUSOM).
 - 👀 I’m interested in cancer biology, immunotherapy, computational & systems immunology, evidence-based and precision medicine.
 - 🌱 I’m currently learning cancer genetics and multimodal spatial and big data omics approaches.
 - 💞️ I’m doing big data in basic and translational cancer research for MoTrPAC, HuBMAP, HTAN, PsychENCODE, and All of Us Researchers.
